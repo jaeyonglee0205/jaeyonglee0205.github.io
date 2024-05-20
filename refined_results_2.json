@@ -1,0 +1,6151 @@
+{
+    "40": {},
+    "50": {
+        "mrs": {
+            "frequency": 269463,
+            "sentiment": {
+                "neutral": 0.678,
+                "positive": 0.206,
+                "negative": 0.116
+            }
+        },
+        "week": {
+            "frequency": 49098,
+            "sentiment": {
+                "neutral": 0.593,
+                "positive": 0.325,
+                "negative": 0.082
+            }
+        },
+        "sunday": {
+            "frequency": 44315,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.286,
+                "negative": 0.042
+            }
+        },
+        "home": {
+            "frequency": 41474,
+            "sentiment": {
+                "neutral": 0.56,
+                "positive": 0.35,
+                "negative": 0.09
+            }
+        },
+        "church": {
+            "frequency": 41297,
+            "sentiment": {
+                "neutral": 0.568,
+                "positive": 0.374,
+                "negative": 0.058
+            }
+        },
+        "miss": {
+            "frequency": 39880,
+            "sentiment": {
+                "neutral": 0.587,
+                "negative": 0.243,
+                "positive": 0.17
+            }
+        },
+        "spent": {
+            "frequency": 35202,
+            "sentiment": {
+                "neutral": 0.57,
+                "positive": 0.338,
+                "negative": 0.093
+            }
+        },
+        "school": {
+            "frequency": 29263,
+            "sentiment": {
+                "neutral": 0.688,
+                "negative": 0.173,
+                "positive": 0.139
+            }
+        },
+        "new": {
+            "frequency": 28276,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.314,
+                "negative": 0.096
+            }
+        },
+        "virginia": {
+            "frequency": 25974,
+            "sentiment": {
+                "neutral": 0.752,
+                "positive": 0.179,
+                "negative": 0.069
+            }
+        },
+        "day": {
+            "frequency": 23946,
+            "sentiment": {
+                "neutral": 0.513,
+                "positive": 0.402,
+                "negative": 0.084
+            }
+        },
+        "son": {
+            "frequency": 23816,
+            "sentiment": {
+                "neutral": 0.569,
+                "positive": 0.285,
+                "negative": 0.146
+            }
+        },
+        "john": {
+            "frequency": 23762,
+            "sentiment": {
+                "neutral": 0.616,
+                "positive": 0.253,
+                "negative": 0.13
+            }
+        },
+        "end": {
+            "frequency": 23631,
+            "sentiment": {
+                "neutral": 0.577,
+                "positive": 0.302,
+                "negative": 0.121
+            }
+        },
+        "service": {
+            "frequency": 19229,
+            "sentiment": {
+                "neutral": 0.639,
+                "positive": 0.232,
+                "negative": 0.129
+            }
+        },
+        "years": {
+            "frequency": 18528,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.329,
+                "negative": 0.104
+            }
+        },
+        "charles": {
+            "frequency": 18071,
+            "sentiment": {
+                "neutral": 0.747,
+                "positive": 0.21,
+                "negative": 0.043
+            }
+        },
+        "time": {
+            "frequency": 17496,
+            "sentiment": {
+                "neutral": 0.587,
+                "positive": 0.323,
+                "negative": 0.09
+            }
+        },
+        "daughter": {
+            "frequency": 17002,
+            "sentiment": {
+                "neutral": 0.705,
+                "positive": 0.202,
+                "negative": 0.093
+            }
+        },
+        "ing": {
+            "frequency": 16765,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.175,
+                "negative": 0.132
+            }
+        },
+        "onancock": {
+            "frequency": 16267,
+            "sentiment": {
+                "neutral": 0.585,
+                "positive": 0.295,
+                "negative": 0.12
+            }
+        },
+        "shore": {
+            "frequency": 16157,
+            "sentiment": {
+                "neutral": 0.596,
+                "positive": 0.314,
+                "negative": 0.09
+            }
+        },
+        "county": {
+            "frequency": 16133,
+            "sentiment": {
+                "neutral": 0.811,
+                "positive": 0.122,
+                "negative": 0.067
+            }
+        },
+        "rev": {
+            "frequency": 16088,
+            "sentiment": {
+                "neutral": 0.544,
+                "positive": 0.385,
+                "negative": 0.071
+            }
+        },
+        "phone": {
+            "frequency": 15286,
+            "sentiment": {
+                "neutral": 0.593,
+                "positive": 0.266,
+                "negative": 0.141
+            }
+        },
+        "william": {
+            "frequency": 15237,
+            "sentiment": {
+                "neutral": 0.77,
+                "positive": 0.183,
+                "negative": 0.046
+            }
+        },
+        "james": {
+            "frequency": 14717,
+            "sentiment": {
+                "neutral": 0.783,
+                "positive": 0.144,
+                "negative": 0.073
+            }
+        },
+        "guests": {
+            "frequency": 14478,
+            "sentiment": {
+                "neutral": 0.797,
+                "positive": 0.111,
+                "negative": 0.092
+            }
+        },
+        "year": {
+            "frequency": 13836,
+            "sentiment": {
+                "neutral": 0.558,
+                "positive": 0.356,
+                "negative": 0.085
+            }
+        },
+        "george": {
+            "frequency": 13793,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.247,
+                "negative": 0.06
+            }
+        },
+        "meeting": {
+            "frequency": 13783,
+            "sentiment": {
+                "neutral": 0.735,
+                "positive": 0.233,
+                "negative": 0.032
+            }
+        },
+        "parksley": {
+            "frequency": 13742,
+            "sentiment": {
+                "neutral": 0.847,
+                "positive": 0.112,
+                "negative": 0.04
+            }
+        },
+        "sale": {
+            "frequency": 13498,
+            "sentiment": {
+                "neutral": 0.637,
+                "positive": 0.28,
+                "negative": 0.083
+            }
+        },
+        "saturday": {
+            "frequency": 13158,
+            "sentiment": {
+                "neutral": 0.666,
+                "positive": 0.289,
+                "negative": 0.045
+            }
+        },
+        "parents": {
+            "frequency": 13001,
+            "sentiment": {
+                "neutral": 0.717,
+                "negative": 0.155,
+                "positive": 0.128
+            }
+        },
+        "friday": {
+            "frequency": 12891,
+            "sentiment": {
+                "neutral": 0.645,
+                "positive": 0.324,
+                "negative": 0.03
+            }
+        },
+        "visited": {
+            "frequency": 12826,
+            "sentiment": {
+                "neutral": 0.638,
+                "positive": 0.331,
+                "negative": 0.032
+            }
+        },
+        "night": {
+            "frequency": 12108,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.281,
+                "negative": 0.129
+            }
+        },
+        "pastor": {
+            "frequency": 12059,
+            "sentiment": {
+                "neutral": 0.703,
+                "positive": 0.251,
+                "negative": 0.046
+            }
+        },
+        "club": {
+            "frequency": 11621,
+            "sentiment": {
+                "neutral": 0.628,
+                "positive": 0.255,
+                "negative": 0.117
+            }
+        },
+        "hospital": {
+            "frequency": 11485,
+            "sentiment": {
+                "neutral": 0.628,
+                "negative": 0.204,
+                "positive": 0.169
+            }
+        },
+        "accomack": {
+            "frequency": 11329,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.162,
+                "negative": 0.145
+            }
+        },
+        "children": {
+            "frequency": 11276,
+            "sentiment": {
+                "neutral": 0.592,
+                "negative": 0.303,
+                "positive": 0.105
+            }
+        },
+        "high": {
+            "frequency": 11267,
+            "sentiment": {
+                "neutral": 0.499,
+                "positive": 0.378,
+                "negative": 0.123
+            }
+        },
+        "family": {
+            "frequency": 11259,
+            "sentiment": {
+                "neutral": 0.549,
+                "positive": 0.36,
+                "negative": 0.091
+            }
+        },
+        "taylor": {
+            "frequency": 11231,
+            "sentiment": {
+                "neutral": 0.795,
+                "positive": 0.172,
+                "negative": 0.033
+            }
+        },
+        "held": {
+            "frequency": 11126,
+            "sentiment": {
+                "neutral": 0.696,
+                "positive": 0.202,
+                "negative": 0.102
+            }
+        },
+        "chincoteague": {
+            "frequency": 11067,
+            "sentiment": {
+                "neutral": 0.809,
+                "positive": 0.142,
+                "negative": 0.05
+            }
+        },
+        "white": {
+            "frequency": 10943,
+            "sentiment": {
+                "neutral": 0.637,
+                "positive": 0.275,
+                "negative": 0.088
+            }
+        },
+        "norfolk": {
+            "frequency": 10869,
+            "sentiment": {
+                "neutral": 0.825,
+                "positive": 0.103,
+                "negative": 0.072
+            }
+        },
+        "worship": {
+            "frequency": 10695,
+            "sentiment": {
+                "neutral": 0.635,
+                "positive": 0.291,
+                "negative": 0.073
+            }
+        },
+        "thursday": {
+            "frequency": 10633,
+            "sentiment": {
+                "neutral": 0.708,
+                "positive": 0.261,
+                "negative": 0.032
+            }
+        },
+        "evening": {
+            "frequency": 10436,
+            "sentiment": {
+                "neutral": 0.678,
+                "positive": 0.278,
+                "negative": 0.044
+            }
+        },
+        "eastern": {
+            "frequency": 10378,
+            "sentiment": {
+                "neutral": 0.825,
+                "positive": 0.112,
+                "negative": 0.064
+            }
+        },
+        "died": {
+            "frequency": 10195,
+            "sentiment": {
+                "neutral": 0.532,
+                "negative": 0.254,
+                "positive": 0.214
+            }
+        },
+        "city": {
+            "frequency": 9933,
+            "sentiment": {
+                "neutral": 0.668,
+                "positive": 0.255,
+                "negative": 0.077
+            }
+        },
+        "monday": {
+            "frequency": 9904,
+            "sentiment": {
+                "neutral": 0.673,
+                "positive": 0.271,
+                "negative": 0.056
+            }
+        },
+        "parks": {
+            "frequency": 9892,
+            "sentiment": {
+                "neutral": 0.799,
+                "positive": 0.158,
+                "negative": 0.043
+            }
+        },
+        "days": {
+            "frequency": 9867,
+            "sentiment": {
+                "neutral": 0.615,
+                "positive": 0.284,
+                "negative": 0.1
+            }
+        },
+        "tuesday": {
+            "frequency": 9829,
+            "sentiment": {
+                "neutral": 0.678,
+                "positive": 0.276,
+                "negative": 0.046
+            }
+        },
+        "northampton": {
+            "frequency": 9812,
+            "sentiment": {
+                "neutral": 0.778,
+                "positive": 0.161,
+                "negative": 0.061
+            }
+        },
+        "wednesday": {
+            "frequency": 9716,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.277,
+                "negative": 0.03
+            }
+        },
+        "cape": {
+            "frequency": 9704,
+            "sentiment": {
+                "neutral": 0.673,
+                "positive": 0.243,
+                "negative": 0.083
+            }
+        },
+        "smith": {
+            "frequency": 9563,
+            "sentiment": {
+                "neutral": 0.672,
+                "positive": 0.229,
+                "negative": 0.099
+            }
+        },
+        "thomas": {
+            "frequency": 9510,
+            "sentiment": {
+                "neutral": 0.68,
+                "positive": 0.259,
+                "negative": 0.061
+            }
+        },
+        "accomac": {
+            "frequency": 9409,
+            "sentiment": {
+                "neutral": 0.703,
+                "positive": 0.2,
+                "negative": 0.098
+            }
+        },
+        "good": {
+            "frequency": 9396,
+            "sentiment": {
+                "positive": 0.651,
+                "neutral": 0.278,
+                "negative": 0.071
+            }
+        },
+        "spending": {
+            "frequency": 9364,
+            "sentiment": {
+                "neutral": 0.673,
+                "negative": 0.186,
+                "positive": 0.141
+            }
+        },
+        "baptist": {
+            "frequency": 9347,
+            "sentiment": {
+                "neutral": 0.657,
+                "positive": 0.285,
+                "negative": 0.058
+            }
+        },
+        "house": {
+            "frequency": 9330,
+            "sentiment": {
+                "neutral": 0.736,
+                "positive": 0.188,
+                "negative": 0.076
+            }
+        },
+        "state": {
+            "frequency": 9325,
+            "sentiment": {
+                "neutral": 0.653,
+                "positive": 0.234,
+                "negative": 0.113
+            }
+        },
+        "mary": {
+            "frequency": 9160,
+            "sentiment": {
+                "neutral": 0.63,
+                "positive": 0.273,
+                "negative": 0.097
+            }
+        },
+        "lewis": {
+            "frequency": 9104,
+            "sentiment": {
+                "neutral": 0.783,
+                "positive": 0.156,
+                "negative": 0.061
+            }
+        },
+        "exmore": {
+            "frequency": 9049,
+            "sentiment": {
+                "neutral": 0.681,
+                "positive": 0.264,
+                "negative": 0.055
+            }
+        },
+        "hall": {
+            "frequency": 9030,
+            "sentiment": {
+                "neutral": 0.729,
+                "positive": 0.229,
+                "negative": 0.042
+            }
+        },
+        "mother": {
+            "frequency": 8891,
+            "sentiment": {
+                "neutral": 0.64,
+                "positive": 0.206,
+                "negative": 0.153
+            }
+        },
+        "work": {
+            "frequency": 8726,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.246,
+                "negative": 0.117
+            }
+        },
+        "land": {
+            "frequency": 8684,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.244,
+                "negative": 0.094
+            }
+        },
+        "friends": {
+            "frequency": 8616,
+            "sentiment": {
+                "neutral": 0.652,
+                "positive": 0.253,
+                "negative": 0.094
+            }
+        },
+        "returned": {
+            "frequency": 8232,
+            "sentiment": {
+                "neutral": 0.696,
+                "positive": 0.23,
+                "negative": 0.074
+            }
+        },
+        "said": {
+            "frequency": 8227,
+            "sentiment": {
+                "neutral": 0.508,
+                "positive": 0.366,
+                "negative": 0.126
+            }
+        },
+        "salisbury": {
+            "frequency": 8205,
+            "sentiment": {
+                "neutral": 0.815,
+                "positive": 0.097,
+                "negative": 0.088
+            }
+        },
+        "richmond": {
+            "frequency": 8100,
+            "sentiment": {
+                "neutral": 0.711,
+                "positive": 0.229,
+                "negative": 0.061
+            }
+        },
+        "robert": {
+            "frequency": 8081,
+            "sentiment": {
+                "neutral": 0.705,
+                "positive": 0.205,
+                "negative": 0.089
+            }
+        },
+        "class": {
+            "frequency": 7920,
+            "sentiment": {
+                "neutral": 0.453,
+                "positive": 0.451,
+                "negative": 0.095
+            }
+        },
+        "air": {
+            "frequency": 7913,
+            "sentiment": {
+                "neutral": 0.614,
+                "positive": 0.234,
+                "negative": 0.151
+            }
+        },
+        "near": {
+            "frequency": 7909,
+            "sentiment": {
+                "neutral": 0.55,
+                "positive": 0.372,
+                "negative": 0.079
+            }
+        },
+        "man": {
+            "frequency": 7875,
+            "sentiment": {
+                "neutral": 0.491,
+                "positive": 0.361,
+                "negative": 0.148
+            }
+        },
+        "methodist": {
+            "frequency": 7520,
+            "sentiment": {
+                "neutral": 0.581,
+                "negative": 0.306,
+                "positive": 0.112
+            }
+        },
+        "mears": {
+            "frequency": 7451,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.223,
+                "negative": 0.079
+            }
+        },
+        "members": {
+            "frequency": 7380,
+            "sentiment": {
+                "neutral": 0.716,
+                "positive": 0.248,
+                "negative": 0.037
+            }
+        },
+        "president": {
+            "frequency": 7310,
+            "sentiment": {
+                "neutral": 0.559,
+                "positive": 0.324,
+                "negative": 0.117
+            }
+        },
+        "public": {
+            "frequency": 7289,
+            "sentiment": {
+                "neutral": 0.673,
+                "positive": 0.21,
+                "negative": 0.117
+            }
+        },
+        "june": {
+            "frequency": 7287,
+            "sentiment": {
+                "neutral": 0.642,
+                "positive": 0.281,
+                "negative": 0.077
+            }
+        },
+        "town": {
+            "frequency": 7234,
+            "sentiment": {
+                "neutral": 0.632,
+                "positive": 0.284,
+                "negative": 0.084
+            }
+        },
+        "morning": {
+            "frequency": 7227,
+            "sentiment": {
+                "neutral": 0.474,
+                "positive": 0.425,
+                "negative": 0.101
+            }
+        },
+        "kellam": {
+            "frequency": 7171,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.204,
+                "negative": 0.135
+            }
+        },
+        "price": {
+            "frequency": 7150,
+            "sentiment": {
+                "neutral": 0.629,
+                "negative": 0.227,
+                "positive": 0.144
+            }
+        },
+        "left": {
+            "frequency": 7131,
+            "sentiment": {
+                "neutral": 0.652,
+                "positive": 0.249,
+                "negative": 0.099
+            }
+        },
+        "law": {
+            "frequency": 7063,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.244,
+                "negative": 0.165
+            }
+        },
+        "belle": {
+            "frequency": 7024,
+            "sentiment": {
+                "neutral": 0.776,
+                "positive": 0.175,
+                "negative": 0.05
+            }
+        },
+        "atlantic": {
+            "frequency": 6956,
+            "sentiment": {
+                "neutral": 0.626,
+                "positive": 0.265,
+                "negative": 0.109
+            }
+        },
+        "dinner": {
+            "frequency": 6939,
+            "sentiment": {
+                "neutral": 0.662,
+                "positive": 0.274,
+                "negative": 0.064
+            }
+        },
+        "haven": {
+            "frequency": 6936,
+            "sentiment": {
+                "neutral": 0.704,
+                "positive": 0.208,
+                "negative": 0.088
+            }
+        },
+        "mapp": {
+            "frequency": 6913,
+            "sentiment": {
+                "neutral": 0.593,
+                "positive": 0.28,
+                "negative": 0.127
+            }
+        },
+        "bloxom": {
+            "frequency": 6858,
+            "sentiment": {
+                "neutral": 0.701,
+                "positive": 0.241,
+                "negative": 0.058
+            }
+        },
+        "afternoon": {
+            "frequency": 6838,
+            "sentiment": {
+                "neutral": 0.56,
+                "positive": 0.39,
+                "negative": 0.05
+            }
+        },
+        "july": {
+            "frequency": 6829,
+            "sentiment": {
+                "neutral": 0.624,
+                "positive": 0.327,
+                "negative": 0.049
+            }
+        },
+        "pocomoke": {
+            "frequency": 6808,
+            "sentiment": {
+                "neutral": 0.71,
+                "positive": 0.154,
+                "negative": 0.136
+            }
+        },
+        "little": {
+            "frequency": 6679,
+            "sentiment": {
+                "neutral": 0.545,
+                "positive": 0.331,
+                "negative": 0.124
+            }
+        },
+        "del": {
+            "frequency": 6667,
+            "sentiment": {
+                "neutral": 0.557,
+                "positive": 0.368,
+                "negative": 0.075
+            }
+        },
+        "sister": {
+            "frequency": 6655,
+            "sentiment": {
+                "neutral": 0.667,
+                "positive": 0.226,
+                "negative": 0.107
+            }
+        },
+        "old": {
+            "frequency": 6626,
+            "sentiment": {
+                "neutral": 0.588,
+                "positive": 0.218,
+                "negative": 0.194
+            }
+        },
+        "present": {
+            "frequency": 6481,
+            "sentiment": {
+                "neutral": 0.655,
+                "positive": 0.289,
+                "negative": 0.056
+            }
+        },
+        "march": {
+            "frequency": 6470,
+            "sentiment": {
+                "neutral": 0.683,
+                "positive": 0.252,
+                "negative": 0.065
+            }
+        },
+        "young": {
+            "frequency": 6438,
+            "sentiment": {
+                "neutral": 0.461,
+                "positive": 0.46,
+                "negative": 0.079
+            }
+        },
+        "onley": {
+            "frequency": 6427,
+            "sentiment": {
+                "neutral": 0.819,
+                "positive": 0.133,
+                "negative": 0.047
+            }
+        },
+        "ter": {
+            "frequency": 6409,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.201,
+                "negative": 0.152
+            }
+        },
+        "baltimore": {
+            "frequency": 6317,
+            "sentiment": {
+                "neutral": 0.816,
+                "positive": 0.121,
+                "negative": 0.063
+            }
+        },
+        "visiting": {
+            "frequency": 6314,
+            "sentiment": {
+                "neutral": 0.765,
+                "positive": 0.199,
+                "negative": 0.036
+            }
+        },
+        "yards": {
+            "frequency": 6288,
+            "sentiment": {
+                "neutral": 0.71,
+                "positive": 0.205,
+                "negative": 0.085
+            }
+        },
+        "called": {
+            "frequency": 6267,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.254,
+                "negative": 0.11
+            }
+        },
+        "aged": {
+            "frequency": 6258,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.182,
+                "negative": 0.121
+            }
+        },
+        "farm": {
+            "frequency": 6229,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.253,
+                "negative": 0.099
+            }
+        },
+        "april": {
+            "frequency": 6225,
+            "sentiment": {
+                "neutral": 0.681,
+                "positive": 0.263,
+                "negative": 0.055
+            }
+        },
+        "tion": {
+            "frequency": 6109,
+            "sentiment": {
+                "neutral": 0.667,
+                "positive": 0.203,
+                "negative": 0.13
+            }
+        },
+        "memorial": {
+            "frequency": 6077,
+            "sentiment": {
+                "neutral": 0.642,
+                "positive": 0.299,
+                "negative": 0.059
+            }
+        },
+        "long": {
+            "frequency": 6073,
+            "sentiment": {
+                "neutral": 0.504,
+                "positive": 0.326,
+                "negative": 0.17
+            }
+        },
+        "office": {
+            "frequency": 6067,
+            "sentiment": {
+                "neutral": 0.653,
+                "positive": 0.257,
+                "negative": 0.09
+            }
+        },
+        "services": {
+            "frequency": 6001,
+            "sentiment": {
+                "neutral": 0.644,
+                "positive": 0.254,
+                "negative": 0.102
+            }
+        },
+        "given": {
+            "frequency": 5987,
+            "sentiment": {
+                "neutral": 0.607,
+                "positive": 0.255,
+                "negative": 0.137
+            }
+        },
+        "lee": {
+            "frequency": 5913,
+            "sentiment": {
+                "neutral": 0.656,
+                "positive": 0.271,
+                "negative": 0.074
+            }
+        },
+        "ton": {
+            "frequency": 5898,
+            "sentiment": {
+                "neutral": 0.622,
+                "positive": 0.3,
+                "negative": 0.078
+            }
+        },
+        "davis": {
+            "frequency": 5872,
+            "sentiment": {
+                "neutral": 0.757,
+                "positive": 0.177,
+                "negative": 0.066
+            }
+        },
+        "people": {
+            "frequency": 5866,
+            "sentiment": {
+                "neutral": 0.642,
+                "negative": 0.226,
+                "positive": 0.132
+            }
+        },
+        "program": {
+            "frequency": 5852,
+            "sentiment": {
+                "neutral": 0.573,
+                "positive": 0.282,
+                "negative": 0.145
+            }
+        },
+        "visit": {
+            "frequency": 5835,
+            "sentiment": {
+                "neutral": 0.654,
+                "positive": 0.288,
+                "negative": 0.059
+            }
+        },
+        "con": {
+            "frequency": 5820,
+            "sentiment": {
+                "neutral": 0.651,
+                "positive": 0.252,
+                "negative": 0.097
+            }
+        },
+        "district": {
+            "frequency": 5802,
+            "sentiment": {
+                "neutral": 0.796,
+                "positive": 0.132,
+                "negative": 0.072
+            }
+        },
+        "business": {
+            "frequency": 5734,
+            "sentiment": {
+                "neutral": 0.591,
+                "positive": 0.28,
+                "negative": 0.129
+            }
+        },
+        "edward": {
+            "frequency": 5727,
+            "sentiment": {
+                "neutral": 0.757,
+                "positive": 0.196,
+                "negative": 0.047
+            }
+        },
+        "water": {
+            "frequency": 5687,
+            "sentiment": {
+                "neutral": 0.608,
+                "positive": 0.235,
+                "negative": 0.157
+            }
+        },
+        "johnson": {
+            "frequency": 5682,
+            "sentiment": {
+                "neutral": 0.686,
+                "positive": 0.237,
+                "negative": 0.077
+            }
+        },
+        "place": {
+            "frequency": 5681,
+            "sentiment": {
+                "neutral": 0.683,
+                "positive": 0.194,
+                "negative": 0.122
+            }
+        },
+        "funeral": {
+            "frequency": 5679,
+            "sentiment": {
+                "neutral": 0.694,
+                "positive": 0.238,
+                "negative": 0.068
+            }
+        },
+        "west": {
+            "frequency": 5666,
+            "sentiment": {
+                "neutral": 0.609,
+                "positive": 0.319,
+                "negative": 0.072
+            }
+        },
+        "news": {
+            "frequency": 5653,
+            "sentiment": {
+                "neutral": 0.631,
+                "positive": 0.21,
+                "negative": 0.159
+            }
+        },
+        "miles": {
+            "frequency": 5620,
+            "sentiment": {
+                "neutral": 0.701,
+                "positive": 0.198,
+                "negative": 0.101
+            }
+        },
+        "sun": {
+            "frequency": 5615,
+            "sentiment": {
+                "neutral": 0.499,
+                "positive": 0.425,
+                "negative": 0.077
+            }
+        },
+        "past": {
+            "frequency": 5613,
+            "sentiment": {
+                "neutral": 0.623,
+                "positive": 0.29,
+                "negative": 0.087
+            }
+        },
+        "page": {
+            "frequency": 5542,
+            "sentiment": {
+                "neutral": 0.616,
+                "positive": 0.253,
+                "negative": 0.13
+            }
+        },
+        "october": {
+            "frequency": 5507,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.264,
+                "negative": 0.049
+            }
+        },
+        "men": {
+            "frequency": 5488,
+            "sentiment": {
+                "neutral": 0.565,
+                "positive": 0.321,
+                "negative": 0.114
+            }
+        },
+        "airs": {
+            "frequency": 5465,
+            "sentiment": {
+                "neutral": 0.675,
+                "negative": 0.171,
+                "positive": 0.154
+            }
+        },
+        "member": {
+            "frequency": 5438,
+            "sentiment": {
+                "neutral": 0.628,
+                "positive": 0.295,
+                "negative": 0.078
+            }
+        },
+        "clock": {
+            "frequency": 5433,
+            "sentiment": {
+                "neutral": 0.718,
+                "positive": 0.192,
+                "negative": 0.09
+            }
+        },
+        "walter": {
+            "frequency": 5424,
+            "sentiment": {
+                "neutral": 0.799,
+                "positive": 0.15,
+                "negative": 0.05
+            }
+        },
+        "fire": {
+            "frequency": 5398,
+            "sentiment": {
+                "neutral": 0.618,
+                "positive": 0.204,
+                "negative": 0.178
+            }
+        },
+        "come": {
+            "frequency": 5363,
+            "sentiment": {
+                "neutral": 0.528,
+                "positive": 0.37,
+                "negative": 0.102
+            }
+        },
+        "north": {
+            "frequency": 5361,
+            "sentiment": {
+                "neutral": 0.62,
+                "positive": 0.301,
+                "negative": 0.079
+            }
+        },
+        "marshall": {
+            "frequency": 5322,
+            "sentiment": {
+                "neutral": 0.762,
+                "positive": 0.178,
+                "negative": 0.06
+            }
+        },
+        "best": {
+            "frequency": 5279,
+            "sentiment": {
+                "positive": 0.751,
+                "neutral": 0.203,
+                "negative": 0.046
+            }
+        },
+        "life": {
+            "frequency": 5258,
+            "sentiment": {
+                "neutral": 0.587,
+                "positive": 0.274,
+                "negative": 0.139
+            }
+        },
+        "christmas": {
+            "frequency": 5246,
+            "sentiment": {
+                "positive": 0.49,
+                "neutral": 0.453,
+                "negative": 0.057
+            }
+        },
+        "states": {
+            "frequency": 5217,
+            "sentiment": {
+                "neutral": 0.688,
+                "positive": 0.191,
+                "negative": 0.121
+            }
+        },
+        "special": {
+            "frequency": 5215,
+            "sentiment": {
+                "neutral": 0.483,
+                "positive": 0.433,
+                "negative": 0.084
+            }
+        },
+        "guest": {
+            "frequency": 5191,
+            "sentiment": {
+                "neutral": 0.783,
+                "positive": 0.152,
+                "negative": 0.065
+            }
+        },
+        "use": {
+            "frequency": 5152,
+            "sentiment": {
+                "neutral": 0.734,
+                "positive": 0.142,
+                "negative": 0.124
+            }
+        },
+        "way": {
+            "frequency": 5147,
+            "sentiment": {
+                "neutral": 0.574,
+                "positive": 0.281,
+                "negative": 0.145
+            }
+        },
+        "november": {
+            "frequency": 5124,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.203,
+                "negative": 0.037
+            }
+        },
+        "harry": {
+            "frequency": 5121,
+            "sentiment": {
+                "neutral": 0.539,
+                "positive": 0.437,
+                "negative": 0.025
+            }
+        },
+        "frank": {
+            "frequency": 5100,
+            "sentiment": {
+                "neutral": 0.763,
+                "positive": 0.161,
+                "negative": 0.076
+            }
+        },
+        "relatives": {
+            "frequency": 5089,
+            "sentiment": {
+                "neutral": 0.771,
+                "negative": 0.121,
+                "positive": 0.108
+            }
+        },
+        "scott": {
+            "frequency": 5089,
+            "sentiment": {
+                "neutral": 0.697,
+                "positive": 0.224,
+                "negative": 0.078
+            }
+        },
+        "hill": {
+            "frequency": 5075,
+            "sentiment": {
+                "neutral": 0.728,
+                "positive": 0.171,
+                "negative": 0.101
+            }
+        },
+        "car": {
+            "frequency": 5062,
+            "sentiment": {
+                "neutral": 0.626,
+                "positive": 0.264,
+                "negative": 0.111
+            }
+        },
+        "jones": {
+            "frequency": 5050,
+            "sentiment": {
+                "neutral": 0.715,
+                "positive": 0.217,
+                "negative": 0.067
+            }
+        },
+        "continued": {
+            "frequency": 5038,
+            "sentiment": {
+                "neutral": 0.696,
+                "positive": 0.215,
+                "negative": 0.088
+            }
+        },
+        "watson": {
+            "frequency": 5031,
+            "sentiment": {
+                "neutral": 0.731,
+                "positive": 0.205,
+                "negative": 0.064
+            }
+        },
+        "january": {
+            "frequency": 5006,
+            "sentiment": {
+                "neutral": 0.747,
+                "positive": 0.201,
+                "negative": 0.052
+            }
+        },
+        "central": {
+            "frequency": 4967,
+            "sentiment": {
+                "neutral": 0.629,
+                "positive": 0.309,
+                "negative": 0.062
+            }
+        },
+        "weeks": {
+            "frequency": 4965,
+            "sentiment": {
+                "neutral": 0.713,
+                "positive": 0.215,
+                "negative": 0.072
+            }
+        },
+        "following": {
+            "frequency": 4947,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.2,
+                "negative": 0.04
+            }
+        },
+        "bridge": {
+            "frequency": 4921,
+            "sentiment": {
+                "neutral": 0.697,
+                "positive": 0.226,
+                "negative": 0.078
+            }
+        },
+        "station": {
+            "frequency": 4874,
+            "sentiment": {
+                "neutral": 0.666,
+                "positive": 0.253,
+                "negative": 0.082
+            }
+        },
+        "com": {
+            "frequency": 4845,
+            "sentiment": {
+                "neutral": 0.615,
+                "positive": 0.266,
+                "negative": 0.12
+            }
+        },
+        "ward": {
+            "frequency": 4838,
+            "sentiment": {
+                "neutral": 0.562,
+                "positive": 0.33,
+                "negative": 0.108
+            }
+        },
+        "court": {
+            "frequency": 4819,
+            "sentiment": {
+                "neutral": 0.676,
+                "positive": 0.232,
+                "negative": 0.092
+            }
+        },
+        "room": {
+            "frequency": 4752,
+            "sentiment": {
+                "neutral": 0.68,
+                "positive": 0.249,
+                "negative": 0.071
+            }
+        },
+        "making": {
+            "frequency": 4684,
+            "sentiment": {
+                "neutral": 0.522,
+                "positive": 0.393,
+                "negative": 0.084
+            }
+        },
+        "december": {
+            "frequency": 4682,
+            "sentiment": {
+                "neutral": 0.703,
+                "positive": 0.257,
+                "negative": 0.04
+            }
+        },
+        "report": {
+            "frequency": 4675,
+            "sentiment": {
+                "neutral": 0.583,
+                "negative": 0.336,
+                "positive": 0.08
+            }
+        },
+        "late": {
+            "frequency": 4673,
+            "sentiment": {
+                "neutral": 0.709,
+                "negative": 0.174,
+                "positive": 0.117
+            }
+        },
+        "inc": {
+            "frequency": 4668,
+            "sentiment": {
+                "neutral": 0.656,
+                "positive": 0.236,
+                "negative": 0.107
+            }
+        },
+        "meet": {
+            "frequency": 4661,
+            "sentiment": {
+                "neutral": 0.684,
+                "positive": 0.249,
+                "negative": 0.067
+            }
+        },
+        "god": {
+            "frequency": 4657,
+            "sentiment": {
+                "neutral": 0.451,
+                "positive": 0.386,
+                "negative": 0.164
+            }
+        },
+        "mason": {
+            "frequency": 4647,
+            "sentiment": {
+                "neutral": 0.796,
+                "positive": 0.133,
+                "negative": 0.071
+            }
+        },
+        "college": {
+            "frequency": 4644,
+            "sentiment": {
+                "neutral": 0.734,
+                "positive": 0.153,
+                "negative": 0.113
+            }
+        },
+        "eastville": {
+            "frequency": 4629,
+            "sentiment": {
+                "neutral": 0.765,
+                "positive": 0.143,
+                "negative": 0.092
+            }
+        },
+        "august": {
+            "frequency": 4620,
+            "sentiment": {
+                "neutral": 0.663,
+                "positive": 0.288,
+                "negative": 0.049
+            }
+        },
+        "notice": {
+            "frequency": 4578,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.224,
+                "negative": 0.078
+            }
+        },
+        "married": {
+            "frequency": 4565,
+            "sentiment": {
+                "neutral": 0.532,
+                "positive": 0.404,
+                "negative": 0.065
+            }
+        },
+        "attend": {
+            "frequency": 4554,
+            "sentiment": {
+                "neutral": 0.733,
+                "positive": 0.2,
+                "negative": 0.067
+            }
+        },
+        "henry": {
+            "frequency": 4532,
+            "sentiment": {
+                "neutral": 0.682,
+                "positive": 0.278,
+                "negative": 0.041
+            }
+        },
+        "right": {
+            "frequency": 4530,
+            "sentiment": {
+                "neutral": 0.591,
+                "positive": 0.283,
+                "negative": 0.126
+            }
+        },
+        "richard": {
+            "frequency": 4512,
+            "sentiment": {
+                "neutral": 0.7,
+                "positive": 0.219,
+                "negative": 0.08
+            }
+        },
+        "washington": {
+            "frequency": 4430,
+            "sentiment": {
+                "neutral": 0.724,
+                "positive": 0.2,
+                "negative": 0.076
+            }
+        },
+        "beach": {
+            "frequency": 4407,
+            "sentiment": {
+                "neutral": 0.541,
+                "positive": 0.384,
+                "negative": 0.075
+            }
+        },
+        "attended": {
+            "frequency": 4401,
+            "sentiment": {
+                "neutral": 0.712,
+                "positive": 0.234,
+                "negative": 0.054
+            }
+        },
+        "prayer": {
+            "frequency": 4392,
+            "sentiment": {
+                "neutral": 0.473,
+                "positive": 0.439,
+                "negative": 0.088
+            }
+        },
+        "ann": {
+            "frequency": 4387,
+            "sentiment": {
+                "neutral": 0.632,
+                "positive": 0.223,
+                "negative": 0.146
+            }
+        },
+        "recently": {
+            "frequency": 4383,
+            "sentiment": {
+                "neutral": 0.789,
+                "positive": 0.152,
+                "negative": 0.059
+            }
+        },
+        "buy": {
+            "frequency": 4367,
+            "sentiment": {
+                "neutral": 0.549,
+                "positive": 0.327,
+                "negative": 0.124
+            }
+        },
+        "spend": {
+            "frequency": 4362,
+            "sentiment": {
+                "neutral": 0.645,
+                "positive": 0.234,
+                "negative": 0.121
+            }
+        },
+        "general": {
+            "frequency": 4360,
+            "sentiment": {
+                "neutral": 0.668,
+                "negative": 0.169,
+                "positive": 0.162
+            }
+        },
+        "small": {
+            "frequency": 4344,
+            "sentiment": {
+                "neutral": 0.505,
+                "positive": 0.333,
+                "negative": 0.162
+            }
+        },
+        "february": {
+            "frequency": 4343,
+            "sentiment": {
+                "neutral": 0.755,
+                "positive": 0.205,
+                "negative": 0.04
+            }
+        },
+        "peninsula": {
+            "frequency": 4290,
+            "sentiment": {
+                "neutral": 0.7,
+                "positive": 0.233,
+                "negative": 0.067
+            }
+        },
+        "great": {
+            "frequency": 4265,
+            "sentiment": {
+                "positive": 0.691,
+                "neutral": 0.246,
+                "negative": 0.064
+            }
+        },
+        "ford": {
+            "frequency": 4263,
+            "sentiment": {
+                "neutral": 0.75,
+                "positive": 0.164,
+                "negative": 0.086
+            }
+        },
+        "christ": {
+            "frequency": 4249,
+            "sentiment": {
+                "neutral": 0.496,
+                "positive": 0.456,
+                "negative": 0.048
+            }
+        },
+        "september": {
+            "frequency": 4204,
+            "sentiment": {
+                "neutral": 0.731,
+                "positive": 0.236,
+                "negative": 0.033
+            }
+        },
+        "hickman": {
+            "frequency": 4200,
+            "sentiment": {
+                "neutral": 0.702,
+                "positive": 0.196,
+                "negative": 0.102
+            }
+        },
+        "messrs": {
+            "frequency": 4169,
+            "sentiment": {
+                "negative": 0.587,
+                "neutral": 0.375,
+                "positive": 0.039
+            }
+        },
+        "williams": {
+            "frequency": 4166,
+            "sentiment": {
+                "neutral": 0.776,
+                "positive": 0.171,
+                "negative": 0.053
+            }
+        },
+        "group": {
+            "frequency": 4165,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.31,
+                "negative": 0.123
+            }
+        },
+        "regular": {
+            "frequency": 4156,
+            "sentiment": {
+                "neutral": 0.608,
+                "positive": 0.243,
+                "negative": 0.149
+            }
+        },
+        "byrd": {
+            "frequency": 4153,
+            "sentiment": {
+                "neutral": 0.688,
+                "positive": 0.247,
+                "negative": 0.065
+            }
+        },
+        "game": {
+            "frequency": 4148,
+            "sentiment": {
+                "neutral": 0.555,
+                "positive": 0.333,
+                "negative": 0.112
+            }
+        },
+        "large": {
+            "frequency": 4146,
+            "sentiment": {
+                "neutral": 0.604,
+                "positive": 0.308,
+                "negative": 0.089
+            }
+        },
+        "savage": {
+            "frequency": 4117,
+            "sentiment": {
+                "neutral": 0.503,
+                "positive": 0.428,
+                "negative": 0.069
+            }
+        },
+        "building": {
+            "frequency": 4096,
+            "sentiment": {
+                "neutral": 0.598,
+                "positive": 0.321,
+                "negative": 0.08
+            }
+        },
+        "south": {
+            "frequency": 4095,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.27,
+                "negative": 0.094
+            }
+        },
+        "line": {
+            "frequency": 4072,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.24,
+                "negative": 0.099
+            }
+        },
+        "brother": {
+            "frequency": 4042,
+            "sentiment": {
+                "neutral": 0.682,
+                "positive": 0.184,
+                "negative": 0.134
+            }
+        },
+        "point": {
+            "frequency": 4036,
+            "sentiment": {
+                "neutral": 0.604,
+                "positive": 0.251,
+                "negative": 0.145
+            }
+        },
+        "today": {
+            "frequency": 3999,
+            "sentiment": {
+                "neutral": 0.643,
+                "positive": 0.284,
+                "negative": 0.073
+            }
+        },
+        "world": {
+            "frequency": 3963,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.192,
+                "negative": 0.121
+            }
+        },
+        "fred": {
+            "frequency": 3936,
+            "sentiment": {
+                "neutral": 0.537,
+                "positive": 0.353,
+                "negative": 0.109
+            }
+        },
+        "melfa": {
+            "frequency": 3925,
+            "sentiment": {
+                "neutral": 0.746,
+                "positive": 0.155,
+                "negative": 0.099
+            }
+        },
+        "lot": {
+            "frequency": 3923,
+            "sentiment": {
+                "neutral": 0.596,
+                "positive": 0.21,
+                "negative": 0.194
+            }
+        },
+        "low": {
+            "frequency": 3919,
+            "sentiment": {
+                "neutral": 0.575,
+                "negative": 0.226,
+                "positive": 0.199
+            }
+        },
+        "sons": {
+            "frequency": 3917,
+            "sentiment": {
+                "neutral": 0.744,
+                "positive": 0.154,
+                "negative": 0.103
+            }
+        },
+        "ball": {
+            "frequency": 3915,
+            "sentiment": {
+                "neutral": 0.538,
+                "positive": 0.347,
+                "negative": 0.115
+            }
+        },
+        "nock": {
+            "frequency": 3909,
+            "sentiment": {
+                "neutral": 0.598,
+                "positive": 0.257,
+                "negative": 0.145
+            }
+        },
+        "store": {
+            "frequency": 3906,
+            "sentiment": {
+                "neutral": 0.643,
+                "positive": 0.277,
+                "negative": 0.08
+            }
+        },
+        "national": {
+            "frequency": 3892,
+            "sentiment": {
+                "neutral": 0.515,
+                "positive": 0.378,
+                "negative": 0.106
+            }
+        },
+        "holland": {
+            "frequency": 3877,
+            "sentiment": {
+                "neutral": 0.75,
+                "positive": 0.212,
+                "negative": 0.038
+            }
+        },
+        "york": {
+            "frequency": 3857,
+            "sentiment": {
+                "neutral": 0.726,
+                "positive": 0.22,
+                "negative": 0.053
+            }
+        },
+        "board": {
+            "frequency": 3855,
+            "sentiment": {
+                "neutral": 0.632,
+                "positive": 0.266,
+                "negative": 0.101
+            }
+        },
+        "bell": {
+            "frequency": 3817,
+            "sentiment": {
+                "neutral": 0.665,
+                "positive": 0.257,
+                "negative": 0.078
+            }
+        },
+        "east": {
+            "frequency": 3805,
+            "sentiment": {
+                "neutral": 0.647,
+                "positive": 0.276,
+                "negative": 0.077
+            }
+        },
+        "party": {
+            "frequency": 3777,
+            "sentiment": {
+                "neutral": 0.634,
+                "positive": 0.314,
+                "negative": 0.052
+            }
+        },
+        "won": {
+            "frequency": 3776,
+            "sentiment": {
+                "positive": 0.473,
+                "neutral": 0.446,
+                "negative": 0.081
+            }
+        },
+        "local": {
+            "frequency": 3774,
+            "sentiment": {
+                "neutral": 0.746,
+                "positive": 0.162,
+                "negative": 0.092
+            }
+        },
+        "parker": {
+            "frequency": 3771,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.195,
+                "negative": 0.045
+            }
+        },
+        "matthews": {
+            "frequency": 3733,
+            "sentiment": {
+                "neutral": 0.763,
+                "positive": 0.168,
+                "negative": 0.069
+            }
+        },
+        "enterprise": {
+            "frequency": 3722,
+            "sentiment": {
+                "neutral": 0.493,
+                "positive": 0.47,
+                "negative": 0.037
+            }
+        },
+        "annual": {
+            "frequency": 3712,
+            "sentiment": {
+                "neutral": 0.747,
+                "positive": 0.174,
+                "negative": 0.08
+            }
+        },
+        "like": {
+            "frequency": 3711,
+            "sentiment": {
+                "neutral": 0.607,
+                "positive": 0.274,
+                "negative": 0.119
+            }
+        },
+        "ago": {
+            "frequency": 3697,
+            "sentiment": {
+                "neutral": 0.573,
+                "positive": 0.282,
+                "negative": 0.145
+            }
+        },
+        "wife": {
+            "frequency": 3694,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.245,
+                "negative": 0.107
+            }
+        },
+        "paul": {
+            "frequency": 3693,
+            "sentiment": {
+                "neutral": 0.721,
+                "positive": 0.206,
+                "negative": 0.073
+            }
+        },
+        "bank": {
+            "frequency": 3692,
+            "sentiment": {
+                "neutral": 0.64,
+                "positive": 0.264,
+                "negative": 0.096
+            }
+        },
+        "drummond": {
+            "frequency": 3689,
+            "sentiment": {
+                "neutral": 0.789,
+                "positive": 0.184,
+                "negative": 0.027
+            }
+        },
+        "committee": {
+            "frequency": 3680,
+            "sentiment": {
+                "neutral": 0.696,
+                "negative": 0.189,
+                "positive": 0.115
+            }
+        },
+        "superintendent": {
+            "frequency": 3676,
+            "sentiment": {
+                "neutral": 0.658,
+                "positive": 0.24,
+                "negative": 0.102
+            }
+        },
+        "jack": {
+            "frequency": 3645,
+            "sentiment": {
+                "neutral": 0.629,
+                "positive": 0.243,
+                "negative": 0.128
+            }
+        },
+        "better": {
+            "frequency": 3632,
+            "sentiment": {
+                "positive": 0.618,
+                "neutral": 0.329,
+                "negative": 0.052
+            }
+        },
+        "sermon": {
+            "frequency": 3606,
+            "sentiment": {
+                "neutral": 0.731,
+                "positive": 0.159,
+                "negative": 0.11
+            }
+        },
+        "anne": {
+            "frequency": 3563,
+            "sentiment": {
+                "neutral": 0.757,
+                "positive": 0.173,
+                "negative": 0.071
+            }
+        },
+        "chairman": {
+            "frequency": 3563,
+            "sentiment": {
+                "neutral": 0.769,
+                "positive": 0.145,
+                "negative": 0.087
+            }
+        },
+        "island": {
+            "frequency": 3547,
+            "sentiment": {
+                "neutral": 0.709,
+                "positive": 0.187,
+                "negative": 0.104
+            }
+        },
+        "acres": {
+            "frequency": 3521,
+            "sentiment": {
+                "neutral": 0.794,
+                "positive": 0.139,
+                "negative": 0.067
+            }
+        },
+        "wedding": {
+            "frequency": 3500,
+            "sentiment": {
+                "neutral": 0.615,
+                "positive": 0.359,
+                "negative": 0.025
+            }
+        },
+        "blue": {
+            "frequency": 3481,
+            "sentiment": {
+                "neutral": 0.509,
+                "positive": 0.399,
+                "negative": 0.092
+            }
+        },
+        "brown": {
+            "frequency": 3479,
+            "sentiment": {
+                "neutral": 0.676,
+                "positive": 0.227,
+                "negative": 0.097
+            }
+        },
+        "motor": {
+            "frequency": 3476,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.242,
+                "negative": 0.088
+            }
+        },
+        "red": {
+            "frequency": 3460,
+            "sentiment": {
+                "neutral": 0.554,
+                "positive": 0.355,
+                "negative": 0.091
+            }
+        },
+        "help": {
+            "frequency": 3447,
+            "sentiment": {
+                "neutral": 0.529,
+                "positive": 0.267,
+                "negative": 0.204
+            }
+        },
+        "served": {
+            "frequency": 3446,
+            "sentiment": {
+                "neutral": 0.712,
+                "positive": 0.195,
+                "negative": 0.093
+            }
+        },
+        "set": {
+            "frequency": 3420,
+            "sentiment": {
+                "neutral": 0.604,
+                "positive": 0.292,
+                "negative": 0.104
+            }
+        },
+        "number": {
+            "frequency": 3395,
+            "sentiment": {
+                "neutral": 0.657,
+                "positive": 0.193,
+                "negative": 0.15
+            }
+        },
+        "nassawadox": {
+            "frequency": 3361,
+            "sentiment": {
+                "neutral": 0.767,
+                "positive": 0.137,
+                "negative": 0.096
+            }
+        },
+        "wood": {
+            "frequency": 3360,
+            "sentiment": {
+                "neutral": 0.686,
+                "positive": 0.212,
+                "negative": 0.102
+            }
+        },
+        "cost": {
+            "frequency": 3357,
+            "sentiment": {
+                "neutral": 0.578,
+                "negative": 0.234,
+                "positive": 0.189
+            }
+        },
+        "free": {
+            "frequency": 3350,
+            "sentiment": {
+                "neutral": 0.461,
+                "positive": 0.435,
+                "negative": 0.104
+            }
+        },
+        "bride": {
+            "frequency": 3349,
+            "sentiment": {
+                "neutral": 0.619,
+                "positive": 0.326,
+                "negative": 0.054
+            }
+        },
+        "open": {
+            "frequency": 3346,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.323,
+                "negative": 0.088
+            }
+        },
+        "wil": {
+            "frequency": 3293,
+            "sentiment": {
+                "neutral": 0.569,
+                "positive": 0.332,
+                "negative": 0.099
+            }
+        },
+        "mon": {
+            "frequency": 3262,
+            "sentiment": {
+                "neutral": 0.472,
+                "positive": 0.409,
+                "negative": 0.119
+            }
+        },
+        "custis": {
+            "frequency": 3239,
+            "sentiment": {
+                "neutral": 0.695,
+                "positive": 0.192,
+                "negative": 0.113
+            }
+        },
+        "jester": {
+            "frequency": 3224,
+            "sentiment": {
+                "neutral": 0.775,
+                "positive": 0.132,
+                "negative": 0.094
+            }
+        },
+        "total": {
+            "frequency": 3221,
+            "sentiment": {
+                "neutral": 0.526,
+                "positive": 0.345,
+                "negative": 0.129
+            }
+        },
+        "equipment": {
+            "frequency": 3218,
+            "sentiment": {
+                "neutral": 0.692,
+                "positive": 0.194,
+                "negative": 0.114
+            }
+        },
+        "prices": {
+            "frequency": 3213,
+            "sentiment": {
+                "neutral": 0.767,
+                "negative": 0.142,
+                "positive": 0.09
+            }
+        },
+        "hour": {
+            "frequency": 3212,
+            "sentiment": {
+                "neutral": 0.594,
+                "positive": 0.32,
+                "negative": 0.086
+            }
+        },
+        "return": {
+            "frequency": 3211,
+            "sentiment": {
+                "neutral": 0.621,
+                "positive": 0.281,
+                "negative": 0.098
+            }
+        },
+        "order": {
+            "frequency": 3208,
+            "sentiment": {
+                "neutral": 0.67,
+                "positive": 0.229,
+                "negative": 0.101
+            }
+        },
+        "score": {
+            "frequency": 3197,
+            "sentiment": {
+                "neutral": 0.606,
+                "positive": 0.261,
+                "negative": 0.133
+            }
+        },
+        "tasley": {
+            "frequency": 3193,
+            "sentiment": {
+                "neutral": 0.658,
+                "positive": 0.239,
+                "negative": 0.103
+            }
+        },
+        "food": {
+            "frequency": 3180,
+            "sentiment": {
+                "neutral": 0.517,
+                "positive": 0.393,
+                "negative": 0.09
+            }
+        },
+        "month": {
+            "frequency": 3178,
+            "sentiment": {
+                "neutral": 0.592,
+                "positive": 0.338,
+                "negative": 0.071
+            }
+        },
+        "green": {
+            "frequency": 3176,
+            "sentiment": {
+                "positive": 0.533,
+                "neutral": 0.384,
+                "negative": 0.082
+            }
+        },
+        "big": {
+            "frequency": 3173,
+            "sentiment": {
+                "positive": 0.458,
+                "neutral": 0.43,
+                "negative": 0.111
+            }
+        },
+        "area": {
+            "frequency": 3167,
+            "sentiment": {
+                "neutral": 0.665,
+                "positive": 0.233,
+                "negative": 0.102
+            }
+        },
+        "gave": {
+            "frequency": 3154,
+            "sentiment": {
+                "neutral": 0.638,
+                "positive": 0.255,
+                "negative": 0.107
+            }
+        },
+        "howard": {
+            "frequency": 3147,
+            "sentiment": {
+                "neutral": 0.749,
+                "positive": 0.16,
+                "negative": 0.091
+            }
+        },
+        "don": {
+            "frequency": 3146,
+            "sentiment": {
+                "neutral": 0.562,
+                "positive": 0.325,
+                "negative": 0.114
+            }
+        },
+        "turner": {
+            "frequency": 3138,
+            "sentiment": {
+                "neutral": 0.807,
+                "positive": 0.143,
+                "negative": 0.05
+            }
+        },
+        "father": {
+            "frequency": 3136,
+            "sentiment": {
+                "neutral": 0.547,
+                "positive": 0.322,
+                "negative": 0.131
+            }
+        },
+        "charge": {
+            "frequency": 3127,
+            "sentiment": {
+                "neutral": 0.641,
+                "positive": 0.257,
+                "negative": 0.102
+            }
+        },
+        "ill": {
+            "frequency": 3124,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.263,
+                "negative": 0.17
+            }
+        },
+        "company": {
+            "frequency": 3118,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.202,
+                "negative": 0.112
+            }
+        },
+        "hope": {
+            "frequency": 3117,
+            "sentiment": {
+                "positive": 0.584,
+                "neutral": 0.349,
+                "negative": 0.067
+            }
+        },
+        "known": {
+            "frequency": 3116,
+            "sentiment": {
+                "neutral": 0.659,
+                "positive": 0.225,
+                "negative": 0.116
+            }
+        },
+        "phillips": {
+            "frequency": 3106,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.203,
+                "negative": 0.162
+            }
+        },
+        "power": {
+            "frequency": 3093,
+            "sentiment": {
+                "neutral": 0.45,
+                "positive": 0.448,
+                "negative": 0.102
+            }
+        },
+        "seed": {
+            "frequency": 3085,
+            "sentiment": {
+                "neutral": 0.656,
+                "positive": 0.193,
+                "negative": 0.152
+            }
+        },
+        "russell": {
+            "frequency": 3084,
+            "sentiment": {
+                "neutral": 0.74,
+                "positive": 0.206,
+                "negative": 0.054
+            }
+        },
+        "oil": {
+            "frequency": 3084,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.195,
+                "negative": 0.144
+            }
+        },
+        "bull": {
+            "frequency": 3073,
+            "sentiment": {
+                "neutral": 0.554,
+                "positive": 0.275,
+                "negative": 0.172
+            }
+        },
+        "door": {
+            "frequency": 3073,
+            "sentiment": {
+                "neutral": 0.594,
+                "positive": 0.313,
+                "negative": 0.093
+            }
+        },
+        "wilmington": {
+            "frequency": 3072,
+            "sentiment": {
+                "neutral": 0.821,
+                "positive": 0.124,
+                "negative": 0.055
+            }
+        },
+        "oak": {
+            "frequency": 3071,
+            "sentiment": {
+                "neutral": 0.639,
+                "positive": 0.231,
+                "negative": 0.13
+            }
+        },
+        "maryland": {
+            "frequency": 3070,
+            "sentiment": {
+                "neutral": 0.762,
+                "positive": 0.178,
+                "negative": 0.06
+            }
+        },
+        "season": {
+            "frequency": 3070,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.229,
+                "negative": 0.1
+            }
+        },
+        "yard": {
+            "frequency": 3066,
+            "sentiment": {
+                "neutral": 0.725,
+                "positive": 0.185,
+                "negative": 0.09
+            }
+        },
+        "early": {
+            "frequency": 3064,
+            "sentiment": {
+                "neutral": 0.552,
+                "positive": 0.368,
+                "negative": 0.08
+            }
+        },
+        "sat": {
+            "frequency": 3062,
+            "sentiment": {
+                "neutral": 0.718,
+                "positive": 0.187,
+                "negative": 0.095
+            }
+        },
+        "martin": {
+            "frequency": 3057,
+            "sentiment": {
+                "neutral": 0.756,
+                "positive": 0.196,
+                "negative": 0.048
+            }
+        },
+        "painter": {
+            "frequency": 3048,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.153,
+                "negative": 0.088
+            }
+        },
+        "hailwood": {
+            "frequency": 3041,
+            "sentiment": {
+                "neutral": 0.611,
+                "positive": 0.309,
+                "negative": 0.08
+            }
+        },
+        "community": {
+            "frequency": 3038,
+            "sentiment": {
+                "neutral": 0.519,
+                "positive": 0.412,
+                "negative": 0.07
+            }
+        },
+        "pro": {
+            "frequency": 3026,
+            "sentiment": {
+                "neutral": 0.474,
+                "positive": 0.402,
+                "negative": 0.124
+            }
+        },
+        "ames": {
+            "frequency": 3022,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.165,
+                "negative": 0.136
+            }
+        },
+        "street": {
+            "frequency": 3019,
+            "sentiment": {
+                "neutral": 0.713,
+                "positive": 0.2,
+                "negative": 0.087
+            }
+        },
+        "field": {
+            "frequency": 3018,
+            "sentiment": {
+                "neutral": 0.659,
+                "positive": 0.283,
+                "negative": 0.058
+            }
+        },
+        "glad": {
+            "frequency": 3006,
+            "sentiment": {
+                "positive": 0.82,
+                "neutral": 0.144,
+                "negative": 0.037
+            }
+        },
+        "ralph": {
+            "frequency": 2990,
+            "sentiment": {
+                "neutral": 0.723,
+                "positive": 0.211,
+                "negative": 0.066
+            }
+        },
+        "boat": {
+            "frequency": 2960,
+            "sentiment": {
+                "neutral": 0.581,
+                "positive": 0.271,
+                "negative": 0.148
+            }
+        },
+        "half": {
+            "frequency": 2957,
+            "sentiment": {
+                "neutral": 0.657,
+                "positive": 0.208,
+                "negative": 0.135
+            }
+        },
+        "away": {
+            "frequency": 2949,
+            "sentiment": {
+                "neutral": 0.509,
+                "positive": 0.374,
+                "negative": 0.116
+            }
+        },
+        "road": {
+            "frequency": 2948,
+            "sentiment": {
+                "neutral": 0.669,
+                "positive": 0.251,
+                "negative": 0.08
+            }
+        },
+        "willis": {
+            "frequency": 2948,
+            "sentiment": {
+                "neutral": 0.758,
+                "positive": 0.188,
+                "negative": 0.054
+            }
+        },
+        "recent": {
+            "frequency": 2944,
+            "sentiment": {
+                "neutral": 0.708,
+                "positive": 0.21,
+                "negative": 0.082
+            }
+        },
+        "united": {
+            "frequency": 2928,
+            "sentiment": {
+                "neutral": 0.664,
+                "positive": 0.266,
+                "negative": 0.07
+            }
+        },
+        "trip": {
+            "frequency": 2924,
+            "sentiment": {
+                "neutral": 0.618,
+                "positive": 0.275,
+                "negative": 0.106
+            }
+        },
+        "route": {
+            "frequency": 2920,
+            "sentiment": {
+                "neutral": 0.681,
+                "positive": 0.207,
+                "negative": 0.112
+            }
+        },
+        "nottingham": {
+            "frequency": 2917,
+            "sentiment": {
+                "neutral": 0.869,
+                "positive": 0.09,
+                "negative": 0.041
+            }
+        },
+        "margaret": {
+            "frequency": 2912,
+            "sentiment": {
+                "neutral": 0.791,
+                "positive": 0.105,
+                "negative": 0.104
+            }
+        },
+        "ment": {
+            "frequency": 2910,
+            "sentiment": {
+                "neutral": 0.618,
+                "positive": 0.272,
+                "negative": 0.11
+            }
+        },
+        "know": {
+            "frequency": 2899,
+            "sentiment": {
+                "neutral": 0.581,
+                "positive": 0.311,
+                "negative": 0.107
+            }
+        },
+        "sell": {
+            "frequency": 2874,
+            "sentiment": {
+                "neutral": 0.646,
+                "positive": 0.218,
+                "negative": 0.136
+            }
+        },
+        "crockett": {
+            "frequency": 2864,
+            "sentiment": {
+                "neutral": 0.835,
+                "positive": 0.121,
+                "negative": 0.045
+            }
+        },
+        "money": {
+            "frequency": 2844,
+            "sentiment": {
+                "neutral": 0.561,
+                "positive": 0.306,
+                "negative": 0.133
+            }
+        },
+        "powell": {
+            "frequency": 2837,
+            "sentiment": {
+                "neutral": 0.668,
+                "positive": 0.255,
+                "negative": 0.077
+            }
+        },
+        "wish": {
+            "frequency": 2829,
+            "sentiment": {
+                "neutral": 0.606,
+                "positive": 0.286,
+                "negative": 0.108
+            }
+        },
+        "pruitt": {
+            "frequency": 2827,
+            "sentiment": {
+                "neutral": 0.729,
+                "positive": 0.158,
+                "negative": 0.114
+            }
+        },
+        "tackle": {
+            "frequency": 2825,
+            "sentiment": {
+                "neutral": 0.609,
+                "positive": 0.301,
+                "negative": 0.09
+            }
+        },
+        "having": {
+            "frequency": 2822,
+            "sentiment": {
+                "neutral": 0.603,
+                "positive": 0.307,
+                "negative": 0.09
+            }
+        },
+        "received": {
+            "frequency": 2820,
+            "sentiment": {
+                "neutral": 0.662,
+                "positive": 0.17,
+                "negative": 0.167
+            }
+        },
+        "schools": {
+            "frequency": 2820,
+            "sentiment": {
+                "neutral": 0.759,
+                "negative": 0.173,
+                "positive": 0.067
+            }
+        },
+        "bible": {
+            "frequency": 2819,
+            "sentiment": {
+                "neutral": 0.714,
+                "positive": 0.2,
+                "negative": 0.086
+            }
+        },
+        "moore": {
+            "frequency": 2817,
+            "sentiment": {
+                "neutral": 0.619,
+                "positive": 0.312,
+                "negative": 0.069
+            }
+        },
+        "doughty": {
+            "frequency": 2816,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.177,
+                "negative": 0.174
+            }
+        },
+        "patient": {
+            "frequency": 2812,
+            "sentiment": {
+                "neutral": 0.629,
+                "positive": 0.275,
+                "negative": 0.096
+            }
+        },
+        "wharf": {
+            "frequency": 2811,
+            "sentiment": {
+                "neutral": 0.773,
+                "positive": 0.147,
+                "negative": 0.08
+            }
+        },
+        "oyster": {
+            "frequency": 2810,
+            "sentiment": {
+                "neutral": 0.749,
+                "positive": 0.16,
+                "negative": 0.09
+            }
+        },
+        "american": {
+            "frequency": 2808,
+            "sentiment": {
+                "neutral": 0.732,
+                "positive": 0.14,
+                "negative": 0.127
+            }
+        },
+        "rent": {
+            "frequency": 2793,
+            "sentiment": {
+                "neutral": 0.717,
+                "negative": 0.207,
+                "positive": 0.076
+            }
+        },
+        "wilson": {
+            "frequency": 2789,
+            "sentiment": {
+                "neutral": 0.73,
+                "positive": 0.209,
+                "negative": 0.061
+            }
+        },
+        "honor": {
+            "frequency": 2789,
+            "sentiment": {
+                "neutral": 0.594,
+                "positive": 0.343,
+                "negative": 0.063
+            }
+        },
+        "age": {
+            "frequency": 2771,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.216,
+                "negative": 0.113
+            }
+        },
+        "spring": {
+            "frequency": 2770,
+            "sentiment": {
+                "neutral": 0.572,
+                "positive": 0.392,
+                "negative": 0.036
+            }
+        },
+        "evans": {
+            "frequency": 2764,
+            "sentiment": {
+                "neutral": 0.78,
+                "positive": 0.166,
+                "negative": 0.054
+            }
+        },
+        "turned": {
+            "frequency": 2762,
+            "sentiment": {
+                "neutral": 0.656,
+                "positive": 0.214,
+                "negative": 0.13
+            }
+        },
+        "took": {
+            "frequency": 2761,
+            "sentiment": {
+                "neutral": 0.621,
+                "positive": 0.283,
+                "negative": 0.096
+            }
+        },
+        "ami": {
+            "frequency": 2760,
+            "sentiment": {
+                "neutral": 0.577,
+                "positive": 0.302,
+                "negative": 0.121
+            }
+        },
+        "met": {
+            "frequency": 2757,
+            "sentiment": {
+                "neutral": 0.685,
+                "positive": 0.228,
+                "negative": 0.087
+            }
+        },
+        "officers": {
+            "frequency": 2755,
+            "sentiment": {
+                "neutral": 0.826,
+                "negative": 0.092,
+                "positive": 0.081
+            }
+        },
+        "woman": {
+            "frequency": 2753,
+            "sentiment": {
+                "neutral": 0.643,
+                "positive": 0.2,
+                "negative": 0.157
+            }
+        },
+        "summer": {
+            "frequency": 2743,
+            "sentiment": {
+                "neutral": 0.65,
+                "positive": 0.31,
+                "negative": 0.04
+            }
+        },
+        "wachapreague": {
+            "frequency": 2740,
+            "sentiment": {
+                "neutral": 0.728,
+                "negative": 0.136,
+                "positive": 0.136
+            }
+        }
+    },
+    "60": {
+        "mrs": {
+            "frequency": 260509,
+            "sentiment": {
+                "neutral": 0.678,
+                "positive": 0.206,
+                "negative": 0.116
+            }
+        },
+        "week": {
+            "frequency": 48730,
+            "sentiment": {
+                "neutral": 0.593,
+                "positive": 0.325,
+                "negative": 0.082
+            }
+        },
+        "sunday": {
+            "frequency": 48098,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.286,
+                "negative": 0.042
+            }
+        },
+        "home": {
+            "frequency": 41369,
+            "sentiment": {
+                "neutral": 0.56,
+                "positive": 0.35,
+                "negative": 0.09
+            }
+        },
+        "church": {
+            "frequency": 38196,
+            "sentiment": {
+                "neutral": 0.568,
+                "positive": 0.374,
+                "negative": 0.058
+            }
+        },
+        "miss": {
+            "frequency": 37174,
+            "sentiment": {
+                "neutral": 0.587,
+                "negative": 0.243,
+                "positive": 0.17
+            }
+        },
+        "school": {
+            "frequency": 32703,
+            "sentiment": {
+                "neutral": 0.688,
+                "negative": 0.173,
+                "positive": 0.139
+            }
+        },
+        "spent": {
+            "frequency": 32649,
+            "sentiment": {
+                "neutral": 0.57,
+                "positive": 0.338,
+                "negative": 0.093
+            }
+        },
+        "new": {
+            "frequency": 27783,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.314,
+                "negative": 0.096
+            }
+        },
+        "virginia": {
+            "frequency": 27427,
+            "sentiment": {
+                "neutral": 0.752,
+                "positive": 0.179,
+                "negative": 0.069
+            }
+        },
+        "end": {
+            "frequency": 24309,
+            "sentiment": {
+                "neutral": 0.577,
+                "positive": 0.302,
+                "negative": 0.121
+            }
+        },
+        "day": {
+            "frequency": 24048,
+            "sentiment": {
+                "neutral": 0.513,
+                "positive": 0.402,
+                "negative": 0.084
+            }
+        },
+        "john": {
+            "frequency": 23662,
+            "sentiment": {
+                "neutral": 0.616,
+                "positive": 0.253,
+                "negative": 0.13
+            }
+        },
+        "son": {
+            "frequency": 23155,
+            "sentiment": {
+                "neutral": 0.569,
+                "positive": 0.285,
+                "negative": 0.146
+            }
+        },
+        "rev": {
+            "frequency": 20053,
+            "sentiment": {
+                "neutral": 0.544,
+                "positive": 0.385,
+                "negative": 0.071
+            }
+        },
+        "charles": {
+            "frequency": 19179,
+            "sentiment": {
+                "neutral": 0.747,
+                "positive": 0.21,
+                "negative": 0.043
+            }
+        },
+        "time": {
+            "frequency": 17408,
+            "sentiment": {
+                "neutral": 0.587,
+                "positive": 0.323,
+                "negative": 0.09
+            }
+        },
+        "daughter": {
+            "frequency": 17200,
+            "sentiment": {
+                "neutral": 0.705,
+                "positive": 0.202,
+                "negative": 0.093
+            }
+        },
+        "worship": {
+            "frequency": 17128,
+            "sentiment": {
+                "neutral": 0.635,
+                "positive": 0.291,
+                "negative": 0.073
+            }
+        },
+        "service": {
+            "frequency": 17036,
+            "sentiment": {
+                "neutral": 0.639,
+                "positive": 0.232,
+                "negative": 0.129
+            }
+        },
+        "years": {
+            "frequency": 16932,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.329,
+                "negative": 0.104
+            }
+        },
+        "ing": {
+            "frequency": 16170,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.175,
+                "negative": 0.132
+            }
+        },
+        "onancock": {
+            "frequency": 15854,
+            "sentiment": {
+                "neutral": 0.585,
+                "positive": 0.295,
+                "negative": 0.12
+            }
+        },
+        "county": {
+            "frequency": 15298,
+            "sentiment": {
+                "neutral": 0.811,
+                "positive": 0.122,
+                "negative": 0.067
+            }
+        },
+        "william": {
+            "frequency": 15225,
+            "sentiment": {
+                "neutral": 0.77,
+                "positive": 0.183,
+                "negative": 0.046
+            }
+        },
+        "shore": {
+            "frequency": 15079,
+            "sentiment": {
+                "neutral": 0.596,
+                "positive": 0.314,
+                "negative": 0.09
+            }
+        },
+        "guests": {
+            "frequency": 14964,
+            "sentiment": {
+                "neutral": 0.797,
+                "positive": 0.111,
+                "negative": 0.092
+            }
+        },
+        "year": {
+            "frequency": 14956,
+            "sentiment": {
+                "neutral": 0.558,
+                "positive": 0.356,
+                "negative": 0.085
+            }
+        },
+        "james": {
+            "frequency": 14866,
+            "sentiment": {
+                "neutral": 0.783,
+                "positive": 0.144,
+                "negative": 0.073
+            }
+        },
+        "pastor": {
+            "frequency": 14807,
+            "sentiment": {
+                "neutral": 0.703,
+                "positive": 0.251,
+                "negative": 0.046
+            }
+        },
+        "visited": {
+            "frequency": 14785,
+            "sentiment": {
+                "neutral": 0.638,
+                "positive": 0.331,
+                "negative": 0.032
+            }
+        },
+        "george": {
+            "frequency": 13733,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.247,
+                "negative": 0.06
+            }
+        },
+        "family": {
+            "frequency": 13715,
+            "sentiment": {
+                "neutral": 0.549,
+                "positive": 0.36,
+                "negative": 0.091
+            }
+        },
+        "parksley": {
+            "frequency": 13666,
+            "sentiment": {
+                "neutral": 0.847,
+                "positive": 0.112,
+                "negative": 0.04
+            }
+        },
+        "saturday": {
+            "frequency": 12624,
+            "sentiment": {
+                "neutral": 0.666,
+                "positive": 0.289,
+                "negative": 0.045
+            }
+        },
+        "friday": {
+            "frequency": 12463,
+            "sentiment": {
+                "neutral": 0.645,
+                "positive": 0.324,
+                "negative": 0.03
+            }
+        },
+        "parents": {
+            "frequency": 12331,
+            "sentiment": {
+                "neutral": 0.717,
+                "negative": 0.155,
+                "positive": 0.128
+            }
+        },
+        "meeting": {
+            "frequency": 12180,
+            "sentiment": {
+                "neutral": 0.735,
+                "positive": 0.233,
+                "negative": 0.032
+            }
+        },
+        "hospital": {
+            "frequency": 11926,
+            "sentiment": {
+                "neutral": 0.628,
+                "negative": 0.204,
+                "positive": 0.169
+            }
+        },
+        "night": {
+            "frequency": 11697,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.281,
+                "negative": 0.129
+            }
+        },
+        "taylor": {
+            "frequency": 11654,
+            "sentiment": {
+                "neutral": 0.795,
+                "positive": 0.172,
+                "negative": 0.033
+            }
+        },
+        "club": {
+            "frequency": 11562,
+            "sentiment": {
+                "neutral": 0.628,
+                "positive": 0.255,
+                "negative": 0.117
+            }
+        },
+        "cape": {
+            "frequency": 11129,
+            "sentiment": {
+                "neutral": 0.673,
+                "positive": 0.243,
+                "negative": 0.083
+            }
+        },
+        "chincoteague": {
+            "frequency": 11002,
+            "sentiment": {
+                "neutral": 0.809,
+                "positive": 0.142,
+                "negative": 0.05
+            }
+        },
+        "high": {
+            "frequency": 10979,
+            "sentiment": {
+                "neutral": 0.499,
+                "positive": 0.378,
+                "negative": 0.123
+            }
+        },
+        "sale": {
+            "frequency": 10976,
+            "sentiment": {
+                "neutral": 0.637,
+                "positive": 0.28,
+                "negative": 0.083
+            }
+        },
+        "accomack": {
+            "frequency": 10821,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.162,
+                "negative": 0.145
+            }
+        },
+        "white": {
+            "frequency": 10679,
+            "sentiment": {
+                "neutral": 0.637,
+                "positive": 0.275,
+                "negative": 0.088
+            }
+        },
+        "norfolk": {
+            "frequency": 10662,
+            "sentiment": {
+                "neutral": 0.825,
+                "positive": 0.103,
+                "negative": 0.072
+            }
+        },
+        "held": {
+            "frequency": 10633,
+            "sentiment": {
+                "neutral": 0.696,
+                "positive": 0.202,
+                "negative": 0.102
+            }
+        },
+        "land": {
+            "frequency": 10509,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.244,
+                "negative": 0.094
+            }
+        },
+        "accomac": {
+            "frequency": 10421,
+            "sentiment": {
+                "neutral": 0.703,
+                "positive": 0.2,
+                "negative": 0.098
+            }
+        },
+        "phone": {
+            "frequency": 10400,
+            "sentiment": {
+                "neutral": 0.593,
+                "positive": 0.266,
+                "negative": 0.141
+            }
+        },
+        "children": {
+            "frequency": 10324,
+            "sentiment": {
+                "neutral": 0.592,
+                "negative": 0.303,
+                "positive": 0.105
+            }
+        },
+        "smith": {
+            "frequency": 10183,
+            "sentiment": {
+                "neutral": 0.672,
+                "positive": 0.229,
+                "negative": 0.099
+            }
+        },
+        "thursday": {
+            "frequency": 10092,
+            "sentiment": {
+                "neutral": 0.708,
+                "positive": 0.261,
+                "negative": 0.032
+            }
+        },
+        "eastern": {
+            "frequency": 10083,
+            "sentiment": {
+                "neutral": 0.825,
+                "positive": 0.112,
+                "negative": 0.064
+            }
+        },
+        "evening": {
+            "frequency": 10020,
+            "sentiment": {
+                "neutral": 0.678,
+                "positive": 0.278,
+                "negative": 0.044
+            }
+        },
+        "days": {
+            "frequency": 9965,
+            "sentiment": {
+                "neutral": 0.615,
+                "positive": 0.284,
+                "negative": 0.1
+            }
+        },
+        "parks": {
+            "frequency": 9744,
+            "sentiment": {
+                "neutral": 0.799,
+                "positive": 0.158,
+                "negative": 0.043
+            }
+        },
+        "northampton": {
+            "frequency": 9711,
+            "sentiment": {
+                "neutral": 0.778,
+                "positive": 0.161,
+                "negative": 0.061
+            }
+        },
+        "tuesday": {
+            "frequency": 9706,
+            "sentiment": {
+                "neutral": 0.678,
+                "positive": 0.276,
+                "negative": 0.046
+            }
+        },
+        "monday": {
+            "frequency": 9678,
+            "sentiment": {
+                "neutral": 0.673,
+                "positive": 0.271,
+                "negative": 0.056
+            }
+        },
+        "good": {
+            "frequency": 9532,
+            "sentiment": {
+                "positive": 0.651,
+                "neutral": 0.278,
+                "negative": 0.071
+            }
+        },
+        "wednesday": {
+            "frequency": 9401,
+            "sentiment": {
+                "neutral": 0.693,
+                "positive": 0.277,
+                "negative": 0.03
+            }
+        },
+        "city": {
+            "frequency": 9399,
+            "sentiment": {
+                "neutral": 0.668,
+                "positive": 0.255,
+                "negative": 0.077
+            }
+        },
+        "thomas": {
+            "frequency": 9378,
+            "sentiment": {
+                "neutral": 0.68,
+                "positive": 0.259,
+                "negative": 0.061
+            }
+        },
+        "lewis": {
+            "frequency": 9129,
+            "sentiment": {
+                "neutral": 0.783,
+                "positive": 0.156,
+                "negative": 0.061
+            }
+        },
+        "spending": {
+            "frequency": 9112,
+            "sentiment": {
+                "neutral": 0.673,
+                "negative": 0.186,
+                "positive": 0.141
+            }
+        },
+        "mary": {
+            "frequency": 9100,
+            "sentiment": {
+                "neutral": 0.63,
+                "positive": 0.273,
+                "negative": 0.097
+            }
+        },
+        "hall": {
+            "frequency": 8986,
+            "sentiment": {
+                "neutral": 0.729,
+                "positive": 0.229,
+                "negative": 0.042
+            }
+        },
+        "died": {
+            "frequency": 8916,
+            "sentiment": {
+                "neutral": 0.532,
+                "negative": 0.254,
+                "positive": 0.214
+            }
+        },
+        "mother": {
+            "frequency": 8909,
+            "sentiment": {
+                "neutral": 0.64,
+                "positive": 0.206,
+                "negative": 0.153
+            }
+        },
+        "atlantic": {
+            "frequency": 8851,
+            "sentiment": {
+                "neutral": 0.626,
+                "positive": 0.265,
+                "negative": 0.109
+            }
+        },
+        "man": {
+            "frequency": 8652,
+            "sentiment": {
+                "neutral": 0.491,
+                "positive": 0.361,
+                "negative": 0.148
+            }
+        },
+        "house": {
+            "frequency": 8651,
+            "sentiment": {
+                "neutral": 0.736,
+                "positive": 0.188,
+                "negative": 0.076
+            }
+        },
+        "town": {
+            "frequency": 8518,
+            "sentiment": {
+                "neutral": 0.632,
+                "positive": 0.284,
+                "negative": 0.084
+            }
+        },
+        "friends": {
+            "frequency": 8391,
+            "sentiment": {
+                "neutral": 0.652,
+                "positive": 0.253,
+                "negative": 0.094
+            }
+        },
+        "exmore": {
+            "frequency": 8360,
+            "sentiment": {
+                "neutral": 0.681,
+                "positive": 0.264,
+                "negative": 0.055
+            }
+        },
+        "returned": {
+            "frequency": 8296,
+            "sentiment": {
+                "neutral": 0.696,
+                "positive": 0.23,
+                "negative": 0.074
+            }
+        },
+        "said": {
+            "frequency": 8170,
+            "sentiment": {
+                "neutral": 0.508,
+                "positive": 0.366,
+                "negative": 0.126
+            }
+        },
+        "robert": {
+            "frequency": 8033,
+            "sentiment": {
+                "neutral": 0.705,
+                "positive": 0.205,
+                "negative": 0.089
+            }
+        },
+        "state": {
+            "frequency": 8018,
+            "sentiment": {
+                "neutral": 0.653,
+                "positive": 0.234,
+                "negative": 0.113
+            }
+        },
+        "methodist": {
+            "frequency": 8016,
+            "sentiment": {
+                "neutral": 0.581,
+                "negative": 0.306,
+                "positive": 0.112
+            }
+        },
+        "public": {
+            "frequency": 7975,
+            "sentiment": {
+                "neutral": 0.673,
+                "positive": 0.21,
+                "negative": 0.117
+            }
+        },
+        "work": {
+            "frequency": 7961,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.246,
+                "negative": 0.117
+            }
+        },
+        "salisbury": {
+            "frequency": 7947,
+            "sentiment": {
+                "neutral": 0.815,
+                "positive": 0.097,
+                "negative": 0.088
+            }
+        },
+        "baptist": {
+            "frequency": 7816,
+            "sentiment": {
+                "neutral": 0.657,
+                "positive": 0.285,
+                "negative": 0.058
+            }
+        },
+        "richmond": {
+            "frequency": 7672,
+            "sentiment": {
+                "neutral": 0.711,
+                "positive": 0.229,
+                "negative": 0.061
+            }
+        },
+        "near": {
+            "frequency": 7670,
+            "sentiment": {
+                "neutral": 0.55,
+                "positive": 0.372,
+                "negative": 0.079
+            }
+        },
+        "superintendent": {
+            "frequency": 7527,
+            "sentiment": {
+                "neutral": 0.658,
+                "positive": 0.24,
+                "negative": 0.102
+            }
+        },
+        "mears": {
+            "frequency": 7329,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.223,
+                "negative": 0.079
+            }
+        },
+        "del": {
+            "frequency": 7177,
+            "sentiment": {
+                "neutral": 0.557,
+                "positive": 0.368,
+                "negative": 0.075
+            }
+        },
+        "dinner": {
+            "frequency": 7153,
+            "sentiment": {
+                "neutral": 0.662,
+                "positive": 0.274,
+                "negative": 0.064
+            }
+        },
+        "pocomoke": {
+            "frequency": 7050,
+            "sentiment": {
+                "neutral": 0.71,
+                "positive": 0.154,
+                "negative": 0.136
+            }
+        },
+        "holy": {
+            "frequency": 6934,
+            "sentiment": {
+                "positive": 0.515,
+                "neutral": 0.373,
+                "negative": 0.112
+            }
+        },
+        "onley": {
+            "frequency": 6844,
+            "sentiment": {
+                "neutral": 0.819,
+                "positive": 0.133,
+                "negative": 0.047
+            }
+        },
+        "kellam": {
+            "frequency": 6833,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.204,
+                "negative": 0.135
+            }
+        },
+        "page": {
+            "frequency": 6822,
+            "sentiment": {
+                "neutral": 0.616,
+                "positive": 0.253,
+                "negative": 0.13
+            }
+        },
+        "visiting": {
+            "frequency": 6802,
+            "sentiment": {
+                "neutral": 0.765,
+                "positive": 0.199,
+                "negative": 0.036
+            }
+        },
+        "june": {
+            "frequency": 6801,
+            "sentiment": {
+                "neutral": 0.642,
+                "positive": 0.281,
+                "negative": 0.077
+            }
+        },
+        "place": {
+            "frequency": 6760,
+            "sentiment": {
+                "neutral": 0.683,
+                "positive": 0.194,
+                "negative": 0.122
+            }
+        },
+        "president": {
+            "frequency": 6713,
+            "sentiment": {
+                "neutral": 0.559,
+                "positive": 0.324,
+                "negative": 0.117
+            }
+        },
+        "old": {
+            "frequency": 6711,
+            "sentiment": {
+                "neutral": 0.588,
+                "positive": 0.218,
+                "negative": 0.194
+            }
+        },
+        "left": {
+            "frequency": 6661,
+            "sentiment": {
+                "neutral": 0.652,
+                "positive": 0.249,
+                "negative": 0.099
+            }
+        },
+        "office": {
+            "frequency": 6599,
+            "sentiment": {
+                "neutral": 0.653,
+                "positive": 0.257,
+                "negative": 0.09
+            }
+        },
+        "members": {
+            "frequency": 6596,
+            "sentiment": {
+                "neutral": 0.716,
+                "positive": 0.248,
+                "negative": 0.037
+            }
+        },
+        "mapp": {
+            "frequency": 6558,
+            "sentiment": {
+                "neutral": 0.593,
+                "positive": 0.28,
+                "negative": 0.127
+            }
+        },
+        "afternoon": {
+            "frequency": 6497,
+            "sentiment": {
+                "neutral": 0.56,
+                "positive": 0.39,
+                "negative": 0.05
+            }
+        },
+        "air": {
+            "frequency": 6398,
+            "sentiment": {
+                "neutral": 0.614,
+                "positive": 0.234,
+                "negative": 0.151
+            }
+        },
+        "called": {
+            "frequency": 6363,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.254,
+                "negative": 0.11
+            }
+        },
+        "sister": {
+            "frequency": 6342,
+            "sentiment": {
+                "neutral": 0.667,
+                "positive": 0.226,
+                "negative": 0.107
+            }
+        },
+        "july": {
+            "frequency": 6269,
+            "sentiment": {
+                "neutral": 0.624,
+                "positive": 0.327,
+                "negative": 0.049
+            }
+        },
+        "visit": {
+            "frequency": 6258,
+            "sentiment": {
+                "neutral": 0.654,
+                "positive": 0.288,
+                "negative": 0.059
+            }
+        },
+        "bloxom": {
+            "frequency": 6251,
+            "sentiment": {
+                "neutral": 0.701,
+                "positive": 0.241,
+                "negative": 0.058
+            }
+        },
+        "present": {
+            "frequency": 6232,
+            "sentiment": {
+                "neutral": 0.655,
+                "positive": 0.289,
+                "negative": 0.056
+            }
+        },
+        "little": {
+            "frequency": 6231,
+            "sentiment": {
+                "neutral": 0.545,
+                "positive": 0.331,
+                "negative": 0.124
+            }
+        },
+        "miles": {
+            "frequency": 6223,
+            "sentiment": {
+                "neutral": 0.701,
+                "positive": 0.198,
+                "negative": 0.101
+            }
+        },
+        "march": {
+            "frequency": 6204,
+            "sentiment": {
+                "neutral": 0.683,
+                "positive": 0.252,
+                "negative": 0.065
+            }
+        },
+        "people": {
+            "frequency": 6196,
+            "sentiment": {
+                "neutral": 0.642,
+                "negative": 0.226,
+                "positive": 0.132
+            }
+        },
+        "ter": {
+            "frequency": 6158,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.201,
+                "negative": 0.152
+            }
+        },
+        "class": {
+            "frequency": 6134,
+            "sentiment": {
+                "neutral": 0.453,
+                "positive": 0.451,
+                "negative": 0.095
+            }
+        },
+        "morning": {
+            "frequency": 6131,
+            "sentiment": {
+                "neutral": 0.474,
+                "positive": 0.425,
+                "negative": 0.101
+            }
+        },
+        "continued": {
+            "frequency": 6088,
+            "sentiment": {
+                "neutral": 0.696,
+                "positive": 0.215,
+                "negative": 0.088
+            }
+        },
+        "young": {
+            "frequency": 6083,
+            "sentiment": {
+                "neutral": 0.461,
+                "positive": 0.46,
+                "negative": 0.079
+            }
+        },
+        "johnson": {
+            "frequency": 6076,
+            "sentiment": {
+                "neutral": 0.686,
+                "positive": 0.237,
+                "negative": 0.077
+            }
+        },
+        "sun": {
+            "frequency": 6035,
+            "sentiment": {
+                "neutral": 0.499,
+                "positive": 0.425,
+                "negative": 0.077
+            }
+        },
+        "ton": {
+            "frequency": 6001,
+            "sentiment": {
+                "neutral": 0.622,
+                "positive": 0.3,
+                "negative": 0.078
+            }
+        },
+        "memorial": {
+            "frequency": 5959,
+            "sentiment": {
+                "neutral": 0.642,
+                "positive": 0.299,
+                "negative": 0.059
+            }
+        },
+        "price": {
+            "frequency": 5956,
+            "sentiment": {
+                "neutral": 0.629,
+                "negative": 0.227,
+                "positive": 0.144
+            }
+        },
+        "given": {
+            "frequency": 5912,
+            "sentiment": {
+                "neutral": 0.607,
+                "positive": 0.255,
+                "negative": 0.137
+            }
+        },
+        "long": {
+            "frequency": 5806,
+            "sentiment": {
+                "neutral": 0.504,
+                "positive": 0.326,
+                "negative": 0.17
+            }
+        },
+        "farm": {
+            "frequency": 5791,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.253,
+                "negative": 0.099
+            }
+        },
+        "district": {
+            "frequency": 5790,
+            "sentiment": {
+                "neutral": 0.796,
+                "positive": 0.132,
+                "negative": 0.072
+            }
+        },
+        "baltimore": {
+            "frequency": 5772,
+            "sentiment": {
+                "neutral": 0.816,
+                "positive": 0.121,
+                "negative": 0.063
+            }
+        },
+        "bridge": {
+            "frequency": 5757,
+            "sentiment": {
+                "neutral": 0.697,
+                "positive": 0.226,
+                "negative": 0.078
+            }
+        },
+        "business": {
+            "frequency": 5738,
+            "sentiment": {
+                "neutral": 0.591,
+                "positive": 0.28,
+                "negative": 0.129
+            }
+        },
+        "program": {
+            "frequency": 5700,
+            "sentiment": {
+                "neutral": 0.573,
+                "positive": 0.282,
+                "negative": 0.145
+            }
+        },
+        "law": {
+            "frequency": 5696,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.244,
+                "negative": 0.165
+            }
+        },
+        "guest": {
+            "frequency": 5678,
+            "sentiment": {
+                "neutral": 0.783,
+                "positive": 0.152,
+                "negative": 0.065
+            }
+        },
+        "communion": {
+            "frequency": 5653,
+            "sentiment": {
+                "neutral": 0.714,
+                "negative": 0.165,
+                "positive": 0.121
+            }
+        },
+        "north": {
+            "frequency": 5637,
+            "sentiment": {
+                "neutral": 0.62,
+                "positive": 0.301,
+                "negative": 0.079
+            }
+        },
+        "con": {
+            "frequency": 5630,
+            "sentiment": {
+                "neutral": 0.651,
+                "positive": 0.252,
+                "negative": 0.097
+            }
+        },
+        "game": {
+            "frequency": 5619,
+            "sentiment": {
+                "neutral": 0.555,
+                "positive": 0.333,
+                "negative": 0.112
+            }
+        },
+        "aged": {
+            "frequency": 5613,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.182,
+                "negative": 0.121
+            }
+        },
+        "life": {
+            "frequency": 5596,
+            "sentiment": {
+                "neutral": 0.587,
+                "positive": 0.274,
+                "negative": 0.139
+            }
+        },
+        "college": {
+            "frequency": 5590,
+            "sentiment": {
+                "neutral": 0.734,
+                "positive": 0.153,
+                "negative": 0.113
+            }
+        },
+        "member": {
+            "frequency": 5583,
+            "sentiment": {
+                "neutral": 0.628,
+                "positive": 0.295,
+                "negative": 0.078
+            }
+        },
+        "funeral": {
+            "frequency": 5550,
+            "sentiment": {
+                "neutral": 0.694,
+                "positive": 0.238,
+                "negative": 0.068
+            }
+        },
+        "west": {
+            "frequency": 5543,
+            "sentiment": {
+                "neutral": 0.609,
+                "positive": 0.319,
+                "negative": 0.072
+            }
+        },
+        "services": {
+            "frequency": 5532,
+            "sentiment": {
+                "neutral": 0.644,
+                "positive": 0.254,
+                "negative": 0.102
+            }
+        },
+        "april": {
+            "frequency": 5524,
+            "sentiment": {
+                "neutral": 0.681,
+                "positive": 0.263,
+                "negative": 0.055
+            }
+        },
+        "way": {
+            "frequency": 5465,
+            "sentiment": {
+                "neutral": 0.574,
+                "positive": 0.281,
+                "negative": 0.145
+            }
+        },
+        "scott": {
+            "frequency": 5463,
+            "sentiment": {
+                "neutral": 0.697,
+                "positive": 0.224,
+                "negative": 0.078
+            }
+        },
+        "tion": {
+            "frequency": 5446,
+            "sentiment": {
+                "neutral": 0.667,
+                "positive": 0.203,
+                "negative": 0.13
+            }
+        },
+        "edward": {
+            "frequency": 5434,
+            "sentiment": {
+                "neutral": 0.757,
+                "positive": 0.196,
+                "negative": 0.047
+            }
+        },
+        "water": {
+            "frequency": 5421,
+            "sentiment": {
+                "neutral": 0.608,
+                "positive": 0.235,
+                "negative": 0.157
+            }
+        },
+        "davis": {
+            "frequency": 5401,
+            "sentiment": {
+                "neutral": 0.757,
+                "positive": 0.177,
+                "negative": 0.066
+            }
+        },
+        "news": {
+            "frequency": 5376,
+            "sentiment": {
+                "neutral": 0.631,
+                "positive": 0.21,
+                "negative": 0.159
+            }
+        },
+        "christmas": {
+            "frequency": 5364,
+            "sentiment": {
+                "positive": 0.49,
+                "neutral": 0.453,
+                "negative": 0.057
+            }
+        },
+        "lee": {
+            "frequency": 5303,
+            "sentiment": {
+                "neutral": 0.656,
+                "positive": 0.271,
+                "negative": 0.074
+            }
+        },
+        "use": {
+            "frequency": 5283,
+            "sentiment": {
+                "neutral": 0.734,
+                "positive": 0.142,
+                "negative": 0.124
+            }
+        },
+        "central": {
+            "frequency": 5248,
+            "sentiment": {
+                "neutral": 0.629,
+                "positive": 0.309,
+                "negative": 0.062
+            }
+        },
+        "past": {
+            "frequency": 5214,
+            "sentiment": {
+                "neutral": 0.623,
+                "positive": 0.29,
+                "negative": 0.087
+            }
+        },
+        "richard": {
+            "frequency": 5207,
+            "sentiment": {
+                "neutral": 0.7,
+                "positive": 0.219,
+                "negative": 0.08
+            }
+        },
+        "walter": {
+            "frequency": 5174,
+            "sentiment": {
+                "neutral": 0.799,
+                "positive": 0.15,
+                "negative": 0.05
+            }
+        },
+        "beach": {
+            "frequency": 5138,
+            "sentiment": {
+                "neutral": 0.541,
+                "positive": 0.384,
+                "negative": 0.075
+            }
+        },
+        "harry": {
+            "frequency": 5119,
+            "sentiment": {
+                "neutral": 0.539,
+                "positive": 0.437,
+                "negative": 0.025
+            }
+        },
+        "washington": {
+            "frequency": 5101,
+            "sentiment": {
+                "neutral": 0.724,
+                "positive": 0.2,
+                "negative": 0.076
+            }
+        },
+        "men": {
+            "frequency": 5070,
+            "sentiment": {
+                "neutral": 0.565,
+                "positive": 0.321,
+                "negative": 0.114
+            }
+        },
+        "best": {
+            "frequency": 5026,
+            "sentiment": {
+                "positive": 0.751,
+                "neutral": 0.203,
+                "negative": 0.046
+            }
+        },
+        "late": {
+            "frequency": 5010,
+            "sentiment": {
+                "neutral": 0.709,
+                "negative": 0.174,
+                "positive": 0.117
+            }
+        },
+        "october": {
+            "frequency": 4980,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.264,
+                "negative": 0.049
+            }
+        },
+        "frank": {
+            "frequency": 4931,
+            "sentiment": {
+                "neutral": 0.763,
+                "positive": 0.161,
+                "negative": 0.076
+            }
+        },
+        "peninsula": {
+            "frequency": 4909,
+            "sentiment": {
+                "neutral": 0.7,
+                "positive": 0.233,
+                "negative": 0.067
+            }
+        },
+        "following": {
+            "frequency": 4859,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.2,
+                "negative": 0.04
+            }
+        },
+        "group": {
+            "frequency": 4847,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.31,
+                "negative": 0.123
+            }
+        },
+        "inc": {
+            "frequency": 4815,
+            "sentiment": {
+                "neutral": 0.656,
+                "positive": 0.236,
+                "negative": 0.107
+            }
+        },
+        "states": {
+            "frequency": 4814,
+            "sentiment": {
+                "neutral": 0.688,
+                "positive": 0.191,
+                "negative": 0.121
+            }
+        },
+        "married": {
+            "frequency": 4801,
+            "sentiment": {
+                "neutral": 0.532,
+                "positive": 0.404,
+                "negative": 0.065
+            }
+        },
+        "com": {
+            "frequency": 4748,
+            "sentiment": {
+                "neutral": 0.615,
+                "positive": 0.266,
+                "negative": 0.12
+            }
+        },
+        "special": {
+            "frequency": 4744,
+            "sentiment": {
+                "neutral": 0.483,
+                "positive": 0.433,
+                "negative": 0.084
+            }
+        },
+        "relatives": {
+            "frequency": 4730,
+            "sentiment": {
+                "neutral": 0.771,
+                "negative": 0.121,
+                "positive": 0.108
+            }
+        },
+        "belle": {
+            "frequency": 4728,
+            "sentiment": {
+                "neutral": 0.776,
+                "positive": 0.175,
+                "negative": 0.05
+            }
+        },
+        "car": {
+            "frequency": 4696,
+            "sentiment": {
+                "neutral": 0.626,
+                "positive": 0.264,
+                "negative": 0.111
+            }
+        },
+        "small": {
+            "frequency": 4677,
+            "sentiment": {
+                "neutral": 0.505,
+                "positive": 0.333,
+                "negative": 0.162
+            }
+        },
+        "lot": {
+            "frequency": 4652,
+            "sentiment": {
+                "neutral": 0.596,
+                "positive": 0.21,
+                "negative": 0.194
+            }
+        },
+        "report": {
+            "frequency": 4647,
+            "sentiment": {
+                "neutral": 0.583,
+                "negative": 0.336,
+                "positive": 0.08
+            }
+        },
+        "god": {
+            "frequency": 4640,
+            "sentiment": {
+                "neutral": 0.451,
+                "positive": 0.386,
+                "negative": 0.164
+            }
+        },
+        "come": {
+            "frequency": 4624,
+            "sentiment": {
+                "neutral": 0.528,
+                "positive": 0.37,
+                "negative": 0.102
+            }
+        },
+        "weeks": {
+            "frequency": 4598,
+            "sentiment": {
+                "neutral": 0.713,
+                "positive": 0.215,
+                "negative": 0.072
+            }
+        },
+        "haven": {
+            "frequency": 4594,
+            "sentiment": {
+                "neutral": 0.704,
+                "positive": 0.208,
+                "negative": 0.088
+            }
+        },
+        "prayer": {
+            "frequency": 4586,
+            "sentiment": {
+                "neutral": 0.473,
+                "positive": 0.439,
+                "negative": 0.088
+            }
+        },
+        "hill": {
+            "frequency": 4583,
+            "sentiment": {
+                "neutral": 0.728,
+                "positive": 0.171,
+                "negative": 0.101
+            }
+        },
+        "meet": {
+            "frequency": 4579,
+            "sentiment": {
+                "neutral": 0.684,
+                "positive": 0.249,
+                "negative": 0.067
+            }
+        },
+        "clock": {
+            "frequency": 4578,
+            "sentiment": {
+                "neutral": 0.718,
+                "positive": 0.192,
+                "negative": 0.09
+            }
+        },
+        "attended": {
+            "frequency": 4570,
+            "sentiment": {
+                "neutral": 0.712,
+                "positive": 0.234,
+                "negative": 0.054
+            }
+        },
+        "buy": {
+            "frequency": 4554,
+            "sentiment": {
+                "neutral": 0.549,
+                "positive": 0.327,
+                "negative": 0.124
+            }
+        },
+        "ward": {
+            "frequency": 4550,
+            "sentiment": {
+                "neutral": 0.562,
+                "positive": 0.33,
+                "negative": 0.108
+            }
+        },
+        "fire": {
+            "frequency": 4541,
+            "sentiment": {
+                "neutral": 0.618,
+                "positive": 0.204,
+                "negative": 0.178
+            }
+        },
+        "room": {
+            "frequency": 4531,
+            "sentiment": {
+                "neutral": 0.68,
+                "positive": 0.249,
+                "negative": 0.071
+            }
+        },
+        "jones": {
+            "frequency": 4526,
+            "sentiment": {
+                "neutral": 0.715,
+                "positive": 0.217,
+                "negative": 0.067
+            }
+        },
+        "east": {
+            "frequency": 4494,
+            "sentiment": {
+                "neutral": 0.647,
+                "positive": 0.276,
+                "negative": 0.077
+            }
+        },
+        "enterprise": {
+            "frequency": 4463,
+            "sentiment": {
+                "neutral": 0.493,
+                "positive": 0.47,
+                "negative": 0.037
+            }
+        },
+        "recently": {
+            "frequency": 4452,
+            "sentiment": {
+                "neutral": 0.789,
+                "positive": 0.152,
+                "negative": 0.059
+            }
+        },
+        "hickman": {
+            "frequency": 4424,
+            "sentiment": {
+                "neutral": 0.702,
+                "positive": 0.196,
+                "negative": 0.102
+            }
+        },
+        "national": {
+            "frequency": 4423,
+            "sentiment": {
+                "neutral": 0.515,
+                "positive": 0.378,
+                "negative": 0.106
+            }
+        },
+        "airs": {
+            "frequency": 4408,
+            "sentiment": {
+                "neutral": 0.675,
+                "negative": 0.171,
+                "positive": 0.154
+            }
+        },
+        "williams": {
+            "frequency": 4405,
+            "sentiment": {
+                "neutral": 0.776,
+                "positive": 0.171,
+                "negative": 0.053
+            }
+        },
+        "won": {
+            "frequency": 4369,
+            "sentiment": {
+                "positive": 0.473,
+                "neutral": 0.446,
+                "negative": 0.081
+            }
+        },
+        "january": {
+            "frequency": 4362,
+            "sentiment": {
+                "neutral": 0.747,
+                "positive": 0.201,
+                "negative": 0.052
+            }
+        },
+        "free": {
+            "frequency": 4338,
+            "sentiment": {
+                "neutral": 0.461,
+                "positive": 0.435,
+                "negative": 0.104
+            }
+        },
+        "green": {
+            "frequency": 4337,
+            "sentiment": {
+                "positive": 0.533,
+                "neutral": 0.384,
+                "negative": 0.082
+            }
+        },
+        "total": {
+            "frequency": 4313,
+            "sentiment": {
+                "neutral": 0.526,
+                "positive": 0.345,
+                "negative": 0.129
+            }
+        },
+        "season": {
+            "frequency": 4295,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.229,
+                "negative": 0.1
+            }
+        },
+        "points": {
+            "frequency": 4289,
+            "sentiment": {
+                "neutral": 0.583,
+                "positive": 0.329,
+                "negative": 0.088
+            }
+        },
+        "watson": {
+            "frequency": 4281,
+            "sentiment": {
+                "neutral": 0.731,
+                "positive": 0.205,
+                "negative": 0.064
+            }
+        },
+        "large": {
+            "frequency": 4270,
+            "sentiment": {
+                "neutral": 0.604,
+                "positive": 0.308,
+                "negative": 0.089
+            }
+        },
+        "november": {
+            "frequency": 4268,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.203,
+                "negative": 0.037
+            }
+        },
+        "world": {
+            "frequency": 4267,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.192,
+                "negative": 0.121
+            }
+        },
+        "point": {
+            "frequency": 4237,
+            "sentiment": {
+                "neutral": 0.604,
+                "positive": 0.251,
+                "negative": 0.145
+            }
+        },
+        "general": {
+            "frequency": 4233,
+            "sentiment": {
+                "neutral": 0.668,
+                "negative": 0.169,
+                "positive": 0.162
+            }
+        },
+        "messrs": {
+            "frequency": 4233,
+            "sentiment": {
+                "negative": 0.587,
+                "neutral": 0.375,
+                "positive": 0.039
+            }
+        },
+        "marshall": {
+            "frequency": 4223,
+            "sentiment": {
+                "neutral": 0.762,
+                "positive": 0.178,
+                "negative": 0.06
+            }
+        },
+        "red": {
+            "frequency": 4221,
+            "sentiment": {
+                "neutral": 0.554,
+                "positive": 0.355,
+                "negative": 0.091
+            }
+        },
+        "south": {
+            "frequency": 4194,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.27,
+                "negative": 0.094
+            }
+        },
+        "ann": {
+            "frequency": 4192,
+            "sentiment": {
+                "neutral": 0.632,
+                "positive": 0.223,
+                "negative": 0.146
+            }
+        },
+        "savage": {
+            "frequency": 4123,
+            "sentiment": {
+                "neutral": 0.503,
+                "positive": 0.428,
+                "negative": 0.069
+            }
+        },
+        "great": {
+            "frequency": 4120,
+            "sentiment": {
+                "positive": 0.691,
+                "neutral": 0.246,
+                "negative": 0.064
+            }
+        },
+        "matthews": {
+            "frequency": 4094,
+            "sentiment": {
+                "neutral": 0.763,
+                "positive": 0.168,
+                "negative": 0.069
+            }
+        },
+        "henry": {
+            "frequency": 4080,
+            "sentiment": {
+                "neutral": 0.682,
+                "positive": 0.278,
+                "negative": 0.041
+            }
+        },
+        "york": {
+            "frequency": 4078,
+            "sentiment": {
+                "neutral": 0.726,
+                "positive": 0.22,
+                "negative": 0.053
+            }
+        },
+        "right": {
+            "frequency": 4072,
+            "sentiment": {
+                "neutral": 0.591,
+                "positive": 0.283,
+                "negative": 0.126
+            }
+        },
+        "august": {
+            "frequency": 4069,
+            "sentiment": {
+                "neutral": 0.663,
+                "positive": 0.288,
+                "negative": 0.049
+            }
+        },
+        "island": {
+            "frequency": 4066,
+            "sentiment": {
+                "neutral": 0.709,
+                "positive": 0.187,
+                "negative": 0.104
+            }
+        },
+        "holland": {
+            "frequency": 4013,
+            "sentiment": {
+                "neutral": 0.75,
+                "positive": 0.212,
+                "negative": 0.038
+            }
+        },
+        "building": {
+            "frequency": 4008,
+            "sentiment": {
+                "neutral": 0.598,
+                "positive": 0.321,
+                "negative": 0.08
+            }
+        },
+        "ford": {
+            "frequency": 3998,
+            "sentiment": {
+                "neutral": 0.75,
+                "positive": 0.164,
+                "negative": 0.086
+            }
+        },
+        "wife": {
+            "frequency": 3985,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.245,
+                "negative": 0.107
+            }
+        },
+        "december": {
+            "frequency": 3978,
+            "sentiment": {
+                "neutral": 0.703,
+                "positive": 0.257,
+                "negative": 0.04
+            }
+        },
+        "paul": {
+            "frequency": 3970,
+            "sentiment": {
+                "neutral": 0.721,
+                "positive": 0.206,
+                "negative": 0.073
+            }
+        },
+        "attend": {
+            "frequency": 3964,
+            "sentiment": {
+                "neutral": 0.733,
+                "positive": 0.2,
+                "negative": 0.067
+            }
+        },
+        "sons": {
+            "frequency": 3933,
+            "sentiment": {
+                "neutral": 0.744,
+                "positive": 0.154,
+                "negative": 0.103
+            }
+        },
+        "eastville": {
+            "frequency": 3883,
+            "sentiment": {
+                "neutral": 0.765,
+                "positive": 0.143,
+                "negative": 0.092
+            }
+        },
+        "like": {
+            "frequency": 3860,
+            "sentiment": {
+                "neutral": 0.607,
+                "positive": 0.274,
+                "negative": 0.119
+            }
+        },
+        "february": {
+            "frequency": 3853,
+            "sentiment": {
+                "neutral": 0.755,
+                "positive": 0.205,
+                "negative": 0.04
+            }
+        },
+        "bank": {
+            "frequency": 3840,
+            "sentiment": {
+                "neutral": 0.64,
+                "positive": 0.264,
+                "negative": 0.096
+            }
+        },
+        "melfa": {
+            "frequency": 3824,
+            "sentiment": {
+                "neutral": 0.746,
+                "positive": 0.155,
+                "negative": 0.099
+            }
+        },
+        "drummond": {
+            "frequency": 3808,
+            "sentiment": {
+                "neutral": 0.789,
+                "positive": 0.184,
+                "negative": 0.027
+            }
+        },
+        "spend": {
+            "frequency": 3807,
+            "sentiment": {
+                "neutral": 0.645,
+                "positive": 0.234,
+                "negative": 0.121
+            }
+        },
+        "mason": {
+            "frequency": 3806,
+            "sentiment": {
+                "neutral": 0.796,
+                "positive": 0.133,
+                "negative": 0.071
+            }
+        },
+        "line": {
+            "frequency": 3794,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.24,
+                "negative": 0.099
+            }
+        },
+        "fred": {
+            "frequency": 3752,
+            "sentiment": {
+                "neutral": 0.537,
+                "positive": 0.353,
+                "negative": 0.109
+            }
+        },
+        "brother": {
+            "frequency": 3750,
+            "sentiment": {
+                "neutral": 0.682,
+                "positive": 0.184,
+                "negative": 0.134
+            }
+        },
+        "blue": {
+            "frequency": 3738,
+            "sentiment": {
+                "neutral": 0.509,
+                "positive": 0.399,
+                "negative": 0.092
+            }
+        },
+        "notice": {
+            "frequency": 3723,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.224,
+                "negative": 0.078
+            }
+        },
+        "low": {
+            "frequency": 3715,
+            "sentiment": {
+                "neutral": 0.575,
+                "negative": 0.226,
+                "positive": 0.199
+            }
+        },
+        "local": {
+            "frequency": 3668,
+            "sentiment": {
+                "neutral": 0.746,
+                "positive": 0.162,
+                "negative": 0.092
+            }
+        },
+        "store": {
+            "frequency": 3656,
+            "sentiment": {
+                "neutral": 0.643,
+                "positive": 0.277,
+                "negative": 0.08
+            }
+        },
+        "station": {
+            "frequency": 3608,
+            "sentiment": {
+                "neutral": 0.666,
+                "positive": 0.253,
+                "negative": 0.082
+            }
+        },
+        "help": {
+            "frequency": 3599,
+            "sentiment": {
+                "neutral": 0.529,
+                "positive": 0.267,
+                "negative": 0.204
+            }
+        },
+        "phillips": {
+            "frequency": 3593,
+            "sentiment": {
+                "neutral": 0.636,
+                "positive": 0.203,
+                "negative": 0.162
+            }
+        },
+        "wilson": {
+            "frequency": 3572,
+            "sentiment": {
+                "neutral": 0.73,
+                "positive": 0.209,
+                "negative": 0.061
+            }
+        },
+        "annual": {
+            "frequency": 3566,
+            "sentiment": {
+                "neutral": 0.747,
+                "positive": 0.174,
+                "negative": 0.08
+            }
+        },
+        "painter": {
+            "frequency": 3566,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.153,
+                "negative": 0.088
+            }
+        },
+        "road": {
+            "frequency": 3546,
+            "sentiment": {
+                "neutral": 0.669,
+                "positive": 0.251,
+                "negative": 0.08
+            }
+        },
+        "september": {
+            "frequency": 3506,
+            "sentiment": {
+                "neutral": 0.731,
+                "positive": 0.236,
+                "negative": 0.033
+            }
+        },
+        "today": {
+            "frequency": 3500,
+            "sentiment": {
+                "neutral": 0.643,
+                "positive": 0.284,
+                "negative": 0.073
+            }
+        },
+        "area": {
+            "frequency": 3494,
+            "sentiment": {
+                "neutral": 0.665,
+                "positive": 0.233,
+                "negative": 0.102
+            }
+        },
+        "away": {
+            "frequency": 3485,
+            "sentiment": {
+                "neutral": 0.509,
+                "positive": 0.374,
+                "negative": 0.116
+            }
+        },
+        "jack": {
+            "frequency": 3466,
+            "sentiment": {
+                "neutral": 0.629,
+                "positive": 0.243,
+                "negative": 0.128
+            }
+        },
+        "came": {
+            "frequency": 3460,
+            "sentiment": {
+                "neutral": 0.609,
+                "positive": 0.301,
+                "negative": 0.09
+            }
+        },
+        "half": {
+            "frequency": 3449,
+            "sentiment": {
+                "neutral": 0.657,
+                "positive": 0.208,
+                "negative": 0.135
+            }
+        },
+        "turner": {
+            "frequency": 3422,
+            "sentiment": {
+                "neutral": 0.807,
+                "positive": 0.143,
+                "negative": 0.05
+            }
+        },
+        "ames": {
+            "frequency": 3418,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.165,
+                "negative": 0.136
+            }
+        },
+        "charge": {
+            "frequency": 3418,
+            "sentiment": {
+                "neutral": 0.641,
+                "positive": 0.257,
+                "negative": 0.102
+            }
+        },
+        "chairman": {
+            "frequency": 3411,
+            "sentiment": {
+                "neutral": 0.769,
+                "positive": 0.145,
+                "negative": 0.087
+            }
+        },
+        "david": {
+            "frequency": 3411,
+            "sentiment": {
+                "neutral": 0.698,
+                "positive": 0.224,
+                "negative": 0.078
+            }
+        },
+        "byrd": {
+            "frequency": 3407,
+            "sentiment": {
+                "neutral": 0.688,
+                "positive": 0.247,
+                "negative": 0.065
+            }
+        },
+        "howard": {
+            "frequency": 3398,
+            "sentiment": {
+                "neutral": 0.749,
+                "positive": 0.16,
+                "negative": 0.091
+            }
+        },
+        "court": {
+            "frequency": 3392,
+            "sentiment": {
+                "neutral": 0.676,
+                "positive": 0.232,
+                "negative": 0.092
+            }
+        },
+        "nassawadox": {
+            "frequency": 3389,
+            "sentiment": {
+                "neutral": 0.767,
+                "positive": 0.137,
+                "negative": 0.096
+            }
+        },
+        "better": {
+            "frequency": 3385,
+            "sentiment": {
+                "positive": 0.618,
+                "neutral": 0.329,
+                "negative": 0.052
+            }
+        },
+        "brown": {
+            "frequency": 3357,
+            "sentiment": {
+                "neutral": 0.676,
+                "positive": 0.227,
+                "negative": 0.097
+            }
+        },
+        "street": {
+            "frequency": 3355,
+            "sentiment": {
+                "neutral": 0.713,
+                "positive": 0.2,
+                "negative": 0.087
+            }
+        },
+        "acres": {
+            "frequency": 3352,
+            "sentiment": {
+                "neutral": 0.794,
+                "positive": 0.139,
+                "negative": 0.067
+            }
+        },
+        "big": {
+            "frequency": 3341,
+            "sentiment": {
+                "positive": 0.458,
+                "neutral": 0.43,
+                "negative": 0.111
+            }
+        },
+        "bull": {
+            "frequency": 3336,
+            "sentiment": {
+                "neutral": 0.554,
+                "positive": 0.275,
+                "negative": 0.172
+            }
+        },
+        "food": {
+            "frequency": 3330,
+            "sentiment": {
+                "neutral": 0.517,
+                "positive": 0.393,
+                "negative": 0.09
+            }
+        },
+        "ago": {
+            "frequency": 3323,
+            "sentiment": {
+                "neutral": 0.573,
+                "positive": 0.282,
+                "negative": 0.145
+            }
+        },
+        "set": {
+            "frequency": 3310,
+            "sentiment": {
+                "neutral": 0.604,
+                "positive": 0.292,
+                "negative": 0.104
+            }
+        },
+        "bay": {
+            "frequency": 3306,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.322,
+                "negative": 0.111
+            }
+        },
+        "board": {
+            "frequency": 3293,
+            "sentiment": {
+                "neutral": 0.632,
+                "positive": 0.266,
+                "negative": 0.101
+            }
+        },
+        "nock": {
+            "frequency": 3279,
+            "sentiment": {
+                "neutral": 0.598,
+                "positive": 0.257,
+                "negative": 0.145
+            }
+        },
+        "sat": {
+            "frequency": 3279,
+            "sentiment": {
+                "neutral": 0.718,
+                "positive": 0.187,
+                "negative": 0.095
+            }
+        },
+        "early": {
+            "frequency": 3268,
+            "sentiment": {
+                "neutral": 0.552,
+                "positive": 0.368,
+                "negative": 0.08
+            }
+        },
+        "real": {
+            "frequency": 3265,
+            "sentiment": {
+                "neutral": 0.516,
+                "positive": 0.356,
+                "negative": 0.128
+            }
+        },
+        "margaret": {
+            "frequency": 3261,
+            "sentiment": {
+                "neutral": 0.791,
+                "positive": 0.105,
+                "negative": 0.104
+            }
+        },
+        "served": {
+            "frequency": 3253,
+            "sentiment": {
+                "neutral": 0.712,
+                "positive": 0.195,
+                "negative": 0.093
+            }
+        },
+        "field": {
+            "frequency": 3250,
+            "sentiment": {
+                "neutral": 0.659,
+                "positive": 0.283,
+                "negative": 0.058
+            }
+        },
+        "open": {
+            "frequency": 3236,
+            "sentiment": {
+                "neutral": 0.59,
+                "positive": 0.323,
+                "negative": 0.088
+            }
+        },
+        "number": {
+            "frequency": 3225,
+            "sentiment": {
+                "neutral": 0.657,
+                "positive": 0.193,
+                "negative": 0.15
+            }
+        },
+        "gave": {
+            "frequency": 3224,
+            "sentiment": {
+                "neutral": 0.638,
+                "positive": 0.255,
+                "negative": 0.107
+            }
+        },
+        "recent": {
+            "frequency": 3216,
+            "sentiment": {
+                "neutral": 0.708,
+                "positive": 0.21,
+                "negative": 0.082
+            }
+        },
+        "oak": {
+            "frequency": 3205,
+            "sentiment": {
+                "neutral": 0.639,
+                "positive": 0.231,
+                "negative": 0.13
+            }
+        },
+        "bundick": {
+            "frequency": 3192,
+            "sentiment": {
+                "neutral": 0.771,
+                "positive": 0.122,
+                "negative": 0.107
+            }
+        },
+        "win": {
+            "frequency": 3189,
+            "sentiment": {
+                "positive": 0.568,
+                "neutral": 0.36,
+                "negative": 0.071
+            }
+        },
+        "pruitt": {
+            "frequency": 3187,
+            "sentiment": {
+                "neutral": 0.729,
+                "positive": 0.158,
+                "negative": 0.114
+            }
+        },
+        "patient": {
+            "frequency": 3178,
+            "sentiment": {
+                "neutral": 0.629,
+                "positive": 0.275,
+                "negative": 0.096
+            }
+        },
+        "committee": {
+            "frequency": 3171,
+            "sentiment": {
+                "neutral": 0.696,
+                "negative": 0.189,
+                "positive": 0.115
+            }
+        },
+        "party": {
+            "frequency": 3168,
+            "sentiment": {
+                "neutral": 0.634,
+                "positive": 0.314,
+                "negative": 0.052
+            }
+        },
+        "regular": {
+            "frequency": 3166,
+            "sentiment": {
+                "neutral": 0.608,
+                "positive": 0.243,
+                "negative": 0.149
+            }
+        },
+        "bill": {
+            "frequency": 3157,
+            "sentiment": {
+                "neutral": 0.607,
+                "positive": 0.262,
+                "negative": 0.131
+            }
+        },
+        "company": {
+            "frequency": 3146,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.202,
+                "negative": 0.112
+            }
+        },
+        "wil": {
+            "frequency": 3146,
+            "sentiment": {
+                "neutral": 0.569,
+                "positive": 0.332,
+                "negative": 0.099
+            }
+        },
+        "ralph": {
+            "frequency": 3144,
+            "sentiment": {
+                "neutral": 0.723,
+                "positive": 0.211,
+                "negative": 0.066
+            }
+        },
+        "christ": {
+            "frequency": 3144,
+            "sentiment": {
+                "neutral": 0.496,
+                "positive": 0.456,
+                "negative": 0.048
+            }
+        },
+        "door": {
+            "frequency": 3142,
+            "sentiment": {
+                "neutral": 0.594,
+                "positive": 0.313,
+                "negative": 0.093
+            }
+        },
+        "known": {
+            "frequency": 3140,
+            "sentiment": {
+                "neutral": 0.659,
+                "positive": 0.225,
+                "negative": 0.116
+            }
+        },
+        "know": {
+            "frequency": 3138,
+            "sentiment": {
+                "neutral": 0.581,
+                "positive": 0.311,
+                "negative": 0.107
+            }
+        },
+        "mis": {
+            "frequency": 3124,
+            "sentiment": {
+                "neutral": 0.661,
+                "negative": 0.176,
+                "positive": 0.163
+            }
+        },
+        "joseph": {
+            "frequency": 3121,
+            "sentiment": {
+                "neutral": 0.802,
+                "positive": 0.125,
+                "negative": 0.073
+            }
+        },
+        "score": {
+            "frequency": 3114,
+            "sentiment": {
+                "neutral": 0.606,
+                "positive": 0.261,
+                "negative": 0.133
+            }
+        },
+        "parker": {
+            "frequency": 3112,
+            "sentiment": {
+                "neutral": 0.76,
+                "positive": 0.195,
+                "negative": 0.045
+            }
+        },
+        "american": {
+            "frequency": 3112,
+            "sentiment": {
+                "neutral": 0.732,
+                "positive": 0.14,
+                "negative": 0.127
+            }
+        },
+        "martin": {
+            "frequency": 3109,
+            "sentiment": {
+                "neutral": 0.756,
+                "positive": 0.196,
+                "negative": 0.048
+            }
+        },
+        "ayres": {
+            "frequency": 3106,
+            "sentiment": {
+                "neutral": 0.825,
+                "positive": 0.094,
+                "negative": 0.081
+            }
+        },
+        "russell": {
+            "frequency": 3106,
+            "sentiment": {
+                "neutral": 0.74,
+                "positive": 0.206,
+                "negative": 0.054
+            }
+        },
+        "wedding": {
+            "frequency": 3106,
+            "sentiment": {
+                "neutral": 0.615,
+                "positive": 0.359,
+                "negative": 0.025
+            }
+        },
+        "return": {
+            "frequency": 3085,
+            "sentiment": {
+                "neutral": 0.621,
+                "positive": 0.281,
+                "negative": 0.098
+            }
+        },
+        "girls": {
+            "frequency": 3065,
+            "sentiment": {
+                "neutral": 0.648,
+                "positive": 0.257,
+                "negative": 0.095
+            }
+        },
+        "evans": {
+            "frequency": 3043,
+            "sentiment": {
+                "neutral": 0.78,
+                "positive": 0.166,
+                "negative": 0.054
+            }
+        },
+        "ami": {
+            "frequency": 3039,
+            "sentiment": {
+                "neutral": 0.577,
+                "positive": 0.302,
+                "negative": 0.121
+            }
+        },
+        "crockett": {
+            "frequency": 3030,
+            "sentiment": {
+                "neutral": 0.835,
+                "positive": 0.121,
+                "negative": 0.045
+            }
+        },
+        "tasley": {
+            "frequency": 3027,
+            "sentiment": {
+                "neutral": 0.658,
+                "positive": 0.239,
+                "negative": 0.103
+            }
+        },
+        "creek": {
+            "frequency": 3025,
+            "sentiment": {
+                "neutral": 0.742,
+                "positive": 0.179,
+                "negative": 0.08
+            }
+        },
+        "don": {
+            "frequency": 3025,
+            "sentiment": {
+                "neutral": 0.562,
+                "positive": 0.325,
+                "negative": 0.114
+            }
+        },
+        "bell": {
+            "frequency": 3022,
+            "sentiment": {
+                "neutral": 0.665,
+                "positive": 0.257,
+                "negative": 0.078
+            }
+        },
+        "custis": {
+            "frequency": 3011,
+            "sentiment": {
+                "neutral": 0.695,
+                "positive": 0.192,
+                "negative": 0.113
+            }
+        },
+        "sermon": {
+            "frequency": 2979,
+            "sentiment": {
+                "neutral": 0.731,
+                "positive": 0.159,
+                "negative": 0.11
+            }
+        },
+        "month": {
+            "frequency": 2979,
+            "sentiment": {
+                "neutral": 0.592,
+                "positive": 0.338,
+                "negative": 0.071
+            }
+        },
+        "mon": {
+            "frequency": 2965,
+            "sentiment": {
+                "neutral": 0.472,
+                "positive": 0.409,
+                "negative": 0.119
+            }
+        },
+        "motor": {
+            "frequency": 2961,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.242,
+                "negative": 0.088
+            }
+        },
+        "pay": {
+            "frequency": 2959,
+            "sentiment": {
+                "neutral": 0.573,
+                "positive": 0.272,
+                "negative": 0.155
+            }
+        },
+        "read": {
+            "frequency": 2956,
+            "sentiment": {
+                "neutral": 0.644,
+                "positive": 0.268,
+                "negative": 0.088
+            }
+        },
+        "ill": {
+            "frequency": 2945,
+            "sentiment": {
+                "neutral": 0.567,
+                "positive": 0.263,
+                "negative": 0.17
+            }
+        },
+        "glad": {
+            "frequency": 2945,
+            "sentiment": {
+                "positive": 0.82,
+                "neutral": 0.144,
+                "negative": 0.037
+            }
+        },
+        "run": {
+            "frequency": 2944,
+            "sentiment": {
+                "neutral": 0.544,
+                "positive": 0.334,
+                "negative": 0.121
+            }
+        },
+        "available": {
+            "frequency": 2934,
+            "sentiment": {
+                "neutral": 0.646,
+                "positive": 0.306,
+                "negative": 0.048
+            }
+        },
+        "summer": {
+            "frequency": 2922,
+            "sentiment": {
+                "neutral": 0.65,
+                "positive": 0.31,
+                "negative": 0.04
+            }
+        },
+        "joe": {
+            "frequency": 2913,
+            "sentiment": {
+                "neutral": 0.717,
+                "positive": 0.165,
+                "negative": 0.118
+            }
+        },
+        "pro": {
+            "frequency": 2912,
+            "sentiment": {
+                "neutral": 0.474,
+                "positive": 0.402,
+                "negative": 0.124
+            }
+        },
+        "father": {
+            "frequency": 2904,
+            "sentiment": {
+                "neutral": 0.547,
+                "positive": 0.322,
+                "negative": 0.131
+            }
+        },
+        "took": {
+            "frequency": 2897,
+            "sentiment": {
+                "neutral": 0.621,
+                "positive": 0.283,
+                "negative": 0.096
+            }
+        },
+        "elizabeth": {
+            "frequency": 2892,
+            "sentiment": {
+                "neutral": 0.771,
+                "positive": 0.15,
+                "negative": 0.079
+            }
+        },
+        "hailwood": {
+            "frequency": 2873,
+            "sentiment": {
+                "neutral": 0.611,
+                "positive": 0.309,
+                "negative": 0.08
+            }
+        },
+        "newport": {
+            "frequency": 2867,
+            "sentiment": {
+                "neutral": 0.742,
+                "positive": 0.178,
+                "negative": 0.079
+            }
+        },
+        "ocean": {
+            "frequency": 2865,
+            "sentiment": {
+                "neutral": 0.649,
+                "positive": 0.287,
+                "negative": 0.064
+            }
+        },
+        "iii": {
+            "frequency": 2864,
+            "sentiment": {
+                "neutral": 0.54,
+                "positive": 0.401,
+                "negative": 0.059
+            }
+        },
+        "woman": {
+            "frequency": 2861,
+            "sentiment": {
+                "neutral": 0.643,
+                "positive": 0.2,
+                "negative": 0.157
+            }
+        },
+        "ment": {
+            "frequency": 2850,
+            "sentiment": {
+                "neutral": 0.618,
+                "positive": 0.272,
+                "negative": 0.11
+            }
+        },
+        "mar": {
+            "frequency": 2838,
+            "sentiment": {
+                "neutral": 0.499,
+                "positive": 0.401,
+                "negative": 0.1
+            }
+        },
+        "age": {
+            "frequency": 2833,
+            "sentiment": {
+                "neutral": 0.671,
+                "positive": 0.216,
+                "negative": 0.113
+            }
+        },
+        "wilmington": {
+            "frequency": 2828,
+            "sentiment": {
+                "neutral": 0.821,
+                "positive": 0.124,
+                "negative": 0.055
+            }
+        },
+        "herbert": {
+            "frequency": 2811,
+            "sentiment": {
+                "neutral": 0.768,
+                "positive": 0.165,
+                "negative": 0.067
+            }
+        },
+        "department": {
+            "frequency": 2807,
+            "sentiment": {
+                "neutral": 0.755,
+                "positive": 0.127,
+                "negative": 0.118
+            }
+        },
+        "estate": {
+            "frequency": 2807,
+            "sentiment": {
+                "neutral": 0.687,
+                "positive": 0.192,
+                "negative": 0.121
+            }
+        },
+        "bride": {
+            "frequency": 2805,
+            "sentiment": {
+                "neutral": 0.619,
+                "positive": 0.326,
+                "negative": 0.054
+            }
+        },
+        "met": {
+            "frequency": 2798,
+            "sentiment": {
+                "neutral": 0.685,
+                "positive": 0.228,
+                "negative": 0.087
+            }
+        },
+        "months": {
+            "frequency": 2791,
+            "sentiment": {
+                "neutral": 0.621,
+                "positive": 0.288,
+                "negative": 0.091
+            }
+        },
+        "property": {
+            "frequency": 2780,
+            "sentiment": {
+                "neutral": 0.681,
+                "positive": 0.165,
+                "negative": 0.153
+            }
+        },
+        "wish": {
+            "frequency": 2766,
+            "sentiment": {
+                "neutral": 0.606,
+                "positive": 0.286,
+                "negative": 0.108
+            }
+        },
+        "wachapreague": {
+            "frequency": 2764,
+            "sentiment": {
+                "neutral": 0.728,
+                "negative": 0.136,
+                "positive": 0.136
+            }
+        },
+        "oil": {
+            "frequency": 2759,
+            "sentiment": {
+                "neutral": 0.661,
+                "positive": 0.195,
+                "negative": 0.144
+            }
+        },
+        "money": {
+            "frequency": 2756,
+            "sentiment": {
+                "neutral": 0.561,
+                "positive": 0.306,
+                "negative": 0.133
+            }
+        },
+        "willis": {
+            "frequency": 2753,
+            "sentiment": {
+                "neutral": 0.758,
+                "positive": 0.188,
+                "negative": 0.054
+            }
+        },
+        "post": {
+            "frequency": 2749,
+            "sentiment": {
+                "neutral": 0.704,
+                "positive": 0.235,
+                "negative": 0.061
+            }
+        },
+        "rent": {
+            "frequency": 2742,
+            "sentiment": {
+                "neutral": 0.717,
+                "negative": 0.207,
+                "positive": 0.076
+            }
+        },
+        "wessells": {
+            "frequency": 2738,
+            "sentiment": {
+                "neutral": 0.83,
+                "positive": 0.106,
+                "negative": 0.064
+            }
+        },
+        "received": {
+            "frequency": 2736,
+            "sentiment": {
+                "neutral": 0.662,
+                "positive": 0.17,
+                "negative": 0.167
+            }
+        },
+        "maryland": {
+            "frequency": 2730,
+            "sentiment": {
+                "neutral": 0.762,
+                "positive": 0.178,
+                "negative": 0.06
+            }
+        },
+        "vir": {
+            "frequency": 2725,
+            "sentiment": {
+                "neutral": 0.635,
+                "positive": 0.278,
+                "negative": 0.087
+            }
+        },
+        "sell": {
+            "frequency": 2724,
+            "sentiment": {
+                "neutral": 0.646,
+                "positive": 0.218,
+                "negative": 0.136
+            }
+        },
+        "quality": {
+            "frequency": 2723,
+            "sentiment": {
+                "neutral": 0.545,
+                "positive": 0.357,
+                "negative": 0.098
+            }
+        }
+    }
+}
