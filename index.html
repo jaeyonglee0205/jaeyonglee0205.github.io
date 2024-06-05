@@ -10,6 +10,7 @@ title: Main
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -106,6 +107,35 @@ title: Main
         }
         .section4 {
             background-color: #EAFAF1;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .collapsible {
+            cursor: pointer;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+        }
+
+        .content {
+            display: none;
+            padding: 10px 20px;
+            border: 1px solid #007bff;
+            margin-top: 5px;
         }
     </style>
 </head>
@@ -220,11 +250,20 @@ title: Main
                 <img src="images/public_administration/Public Administration in the West States.png" alt="Pie Chart 4">
             </div>
         </div>
-        <p>It should be noted that </p>
+        <p>It should be noted that the military related occupations constitute the majority of the public administration. From the figures, it can be seen that four all regions, the population of people engaging in public administration
+            increased over time, rather in a linear manner. The West experienced the highest increase, with 37.2% from 1940s to 1950s, and 33.5% from 1950s to 1960s. The Northeastern was the least, with 24.2% and 16.1%. However, this could be
+            due to the fact that the total population of public administration in the West is the smallest, leading to a small sample bias.
+        </p>
+        <h3>Important Getaways</h3>
+        <ul>
+            <li>Manufacturing, wholesale and retail, agriculture, and professional related jobs constituted the majority of occupation from 1940s to 1960s in the U.S.</li>
+            <li>Population increase for some occpations could be due to the technological advancements, or the escalation of the Cold War.</li>
+            <li>Population of people engaging in public administration increased in a linear manner for all regions.</li>
+        </ul>
         <h2>Analysis by Regions</h2>
-        <p>For the analysis of the regions, the optical character recognition (OCR, automated text transfer) generated U.S. newspapers published between 1940 and 1960, divided by the regions, were collected.
+        <p>For the analysis of each region, the optical character recognition (OCR, automated text transfer) generated U.S. newspapers published between 1940 and 1960, divided by the regions, were collected.
             The extracted vocabularies from the data were then filtered using Named Entity Recognition - which is extracting 'important' terms from linguistic strings - feature of SpaCy, an open-source Natural Language Processing tool. 
-            For identifying the vocabularies that were used to foster a sense of unification, thesauruses as well as manual thematic analysis on the refined data were extensively used. These were the identified vocabularies (in random sizes):
+            For identifying the vocabularies that were used to foster a sense of unification, thesauruses as well as manual thematic analysis on the refined data were extensively used. These were the identified vocabularies (I.D.) in random sizes:
         </p>
         <div id="word-cloud"></div>
         <script>
@@ -252,7 +291,22 @@ title: Main
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_North Central.jpg" alt="pfnc">
         </div>
-        <p>Let's look at</p>
+        <button type="button" class="collapsible">Show Actual Frequency of I.D.</button>
+        <div class="content">
+            <div class="image-container">
+                <img src="images/actual_uni_words/North Central_40.jpg" alt="Image 1">
+            </div>
+            <div class="image-container">
+                <img src="images/actual_uni_words/North Central_50.jpg" alt="Image 2">
+            </div>
+            <div class="image-container">
+                <img src="images/actual_uni_words/North Central_60.jpg" alt="Image 2">
+            </div>
+        </div>
+        <p>The figure above shows the percentage of frequency of I.D. from the total frequency of all extracted vocabularies. As it can be seen, the 
+            percentages of I.D. in North Central newspapers had very small fluctuations, with 5.3% for 1940s and 5.1% for 1950s and 1960s. Underneath is the
+            top-30 'polarized' (not neutral) vocabularies extracted for North Central newspapers of 1940s and 1960s, from left to right.
+        </p>
         <div class="grid-container">
             <div class="grid-item">
                 <img src="images/0/graph_40_pos_neg.jpg">
@@ -261,6 +315,32 @@ title: Main
                 <img src="images/0/graph_60_pos_neg.jpg">
             </div>
         </div>
+        <p>From the left figure, it can immediately be seen that the vocabs "home" and "church" had the highest frequency. It can also be seen that during 1940s, North Central newspapers
+            made an extensive use of very positive vocabularies, such as good, great, and best. The red, large node of "war" indicates that there were significant concerns
+            of war during 1940s. The right figure of 1960s shows a deviated outcome. It can be detected that the North Central newspapers still used the words "home" and "church" and positive
+            vocabularies such as "good" and "best". However, the frequency of the vocabulary "war" has decreased significantly, while the word with negative sentiment "discrimination" had been
+            used more frequently. Based solely on the available data, it appears that North Central region was more focused on their intra-regional issues, reflecting the consistent 5% 
+            frequency of I.D.
+        </p>
+        <table>
+            <tr>
+                <th>Pearson Coefficient</th>
+                <th>Pearson P-Value</th>
+                <th>Spearman Coefficient</th>
+                <th>Spearman P-Value</th>
+            </tr>
+            <tr>
+                <td>-0.90</td>
+                <td>0.29</td>
+                <td>-0.87</td>
+                <td>0.33</td>
+            </tr>
+        </table>
+        <p>The table above shows the Pearson Correlation Coefficient, P-value for it, Spearman Correlation Coefficient, and P-value for it.
+            As indicated by the first bar graph, no correlation has been detected, which is evident from the high P-values.
+            Thus, we can conclude that for North Central region, no significant relationship between the population of public administration and usage of vocabularies that foster a sense
+            of unification have been found. 
+        </p>
         </section>
         <section class="section2">
         <h3 style="color: #E8B500">Northeast</h3>
@@ -290,6 +370,22 @@ title: Main
             images.forEach(function(image) {
                 image.addEventListener('click', function() {
                     this.classList.toggle('zoomed');
+                });
+            });
+        });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var coll = document.querySelectorAll('.collapsible');
+            coll.forEach(function(btn) {
+                btn.addEventListener('click', function() {
+                    this.classList.toggle('active');
+                    var content = this.nextElementSibling;
+                    if (content.style.display === 'block') {
+                        content.style.display = 'none';
+                    } else {
+                        content.style.display = 'block';
+                    }
                 });
             });
         });
