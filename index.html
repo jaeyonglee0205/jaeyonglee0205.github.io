@@ -9,7 +9,7 @@ title: Home
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <script src="https://cdn.jsdelivr.net/npm/wordcloud2.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -196,10 +196,10 @@ title: Home
     
             WordCloud(document.getElementById('word-cloud'), { list: wordArray });
         </script>
-        <h3>North Central</h3>
-        <h3>Northeast</h3>
-        <h3>South</h3>
-        <h3>West</h3>
+        <h3 style="color: #C93535">North Central</h3>
+        <h3 style="color: #E8B500">Northeast</h3>
+        <h3 style="color: #2674BA">South</h3>
+        <h3 style="color:#448C2A">West</h3>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
