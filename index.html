@@ -9,6 +9,7 @@ title: Home
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud2.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -46,7 +47,7 @@ title: Home
         .abstract {
         border: 2px solid #808080;
         padding: 10px;
-        margin: 20px 10px;
+        margin: 20px auto;
         border-radius: 5px;
         background-color: #f9f9f9;
         width: 80%;
@@ -69,6 +70,11 @@ title: Home
         }
         p {
             text-indent: 25px;
+        }
+        #word-cloud {
+            width: 100%;
+            height: 500px;
+            border: 1px solid #ccc;
         }
     </style>
 </head>
@@ -171,6 +177,29 @@ title: Home
                 <img src="images/public_administration/Public Administration in the West States.png" alt="Pie Chart 4">
             </div>
         </div>
+        <h2>Analysis by Regions</h2>
+        <p>For the analysis of the regions, the optical character recognition (OCR, automated text transfer) generated U.S. newspapers published between 1940 and 1960, divided by the regions, were collected.
+            The extracted vocabularies from the data were then filtered using Named Entity Recognition - which is extracting 'important' terms from linguistic strings - feature of SpaCy, an open-source Natural Language Processing tool. 
+            For identifying the vocabularies that were used to foster a sense of unification, thesauruses as well as manual thematic analysis on the refined data were extensively used. These were the identified vocabularies:
+        </p>
+        <div id="word-cloud"></div>
+    
+        <script>
+            const words = [
+                'family', 'home', 'america', 'country', 'nation', 'unity', 'allies', 'alliance',
+                'liberty', 'stand', 'victory', 'us', 'we', 'president', 'community', 'army',
+                'national', 'united', 'unify', 'unification', 'american', 'freedom', 'government',
+                'war', 'red', 'friends', 'friend', 'unified', 'together', 'unite'
+            ];
+    
+            const wordArray = words.map(word => [word, Math.floor(Math.random() * 50) + 10]);
+    
+            WordCloud(document.getElementById('word-cloud'), { list: wordArray });
+        </script>
+        <h3>North Central</h3>
+        <h3>Northeast</h3>
+        <h3>South</h3>
+        <h3>West</h3>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
