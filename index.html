@@ -8,7 +8,7 @@ title: Main
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title style="color: white">{{ page.title }}</title>
     <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
     <link rel="stylesheet" href="styles.css">
     <style>
@@ -151,12 +151,13 @@ title: Main
         <a href="reference.html" class="nav-button">Reference</a>
     </nav>
     <main>
-        <h1 style="text-align: center;">Main Content</h1>
+        <h1 style="color: black; text-align: center;">Main Content</h1>
         <div class="abstract">
             <h2 style="font-weight: bold; color: black;">Abstract</h2>
             <p>This project aims to explore the usage of vocabularies that foster a sense of unification throughout the early stages of the Cold War.
                 Specifically, it aims to answer the questions of whether the escalation of Cold War and the occupational distribution of the region was was reflected by the usage of vocabularies.
-                Case studies will be conducted on the U.S. Census Bureau - designated regions, with both qualitative and quantitative analysis on the collected data.
+                Case studies will be conducted on the U.S. Census Bureau - designated regions, with both qualitative and quantitative analysis on the collected data, in order to assess the intuitive
+                hypothesis that the sense of unification fostered by the newspaper will be reflected by the increase in number of people engaging in public administrations.
                 This project will conclude with answers to above questions, as well as a compare-and-contrast to the answers provided by a generative AI.
             </p>
         </div>
@@ -342,6 +343,7 @@ title: Main
             of unification have been found. 
         </p>
         </section>
+
         <section class="section2">
         <h3 style="font-weight: bold; color: #E8B500">Northeast</h3>
         <div class="image-container">
@@ -356,7 +358,36 @@ title: Main
                 <img src="images/actual_uni_words/Northeast_50.jpg" alt="Image 2">
             </div>
         </div>
+        <p>The figure above shows the percentage of frequency of I.D. from the total frequency of all extracted vocabularies for the Northeast region. As it can be seen, the 
+            percentages of I.D. in Northeast newspapers increased from 3.9% to 4.2%, from 1940s to 1950s. The data for 1960s newspaper of Northeast region was inaccessible, and hence the analysis is to 
+            be done only on that of 1940s and 1950s. Underneath is the
+            top-30 'polarized' (not neutral) vocabularies extracted for North Central newspapers of 1940s and 1950s, from left to right.
+        </p>
+        <div class="grid-container">
+            <div class="grid-item">
+                <img src="images/1/graph_40_pos_neg.jpg">
+            </div>
+            <div class="grid-item">
+                <img src="images/1/graph_50_pos_neg.jpg">
+            </div>
+        </div>
+        <p>From the left figure, it can immediately be seen that the vocabs "home" and "church" had the highest frequency. It can also be seen that during 1940s, North Central newspapers
+            made an extensive use of very positive vocabularies, such as good, great, and best. The red, large node of "war" indicates that there were significant concerns
+            of war during 1940s. The right figure of 1960s shows a deviated outcome. It can be detected that the North Central newspapers still used the words "home" and "church" and positive
+            vocabularies such as "good" and "best". However, the frequency of the vocabulary "war" has decreased significantly, while the word with negative sentiment "discrimination" had been
+            used more frequently. Based solely on the available data, it appears that North Central region was more focused on their intra-regional issues, reflecting the consistent 5% 
+            frequency of I.D.
+        </p>
+        <div class="grid-container">
+            <div class="grid-item">
+                <img src="images/1/graph_40_neu.jpg">
+            </div>
+            <div class="grid-item">
+                <img src="images/1/graph_50_neu.jpg">
+            </div>
+        </div>
         </section>
+
         <section class="section3">
         <h3 style="font-weight: bold; color: #2674BA">South</h3>
         <div class="image-container">
