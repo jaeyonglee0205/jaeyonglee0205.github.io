@@ -111,7 +111,7 @@ title: Main
 </head>
 <body>
     <header>
-        <h1>How did U.S. newspaper publications across different regions foster a sense of unity during the early stages of the Cold War from 1940 to 1960?</h1>
+        <h1>How did U.S. newspaper publications across different regions foster a sense of unity during the early stages of the Cold War from 1940 to 1960, in relation to the regional population engaged in public administration?</h1>
         <!--<p>{{ site.description }}</p>-->
     </header>
     <nav>
@@ -133,7 +133,8 @@ title: Main
         <p style="text-indent: 25px">The Cold War, starting from 1947 and ending in 1991, is often regarded as the most pivotal moment of shaping the modern society. In the time of such heightened tension, unification among citizens is a critical factor,
             which is often fostered through media outlets such as newspapers. Particularly, the linguistic choices used in these newspapers was the major device for conveying messages, varying
             according to the demographic details of the region of publication. In want of 
-            a closer inspection on whether the United States (U.S.) newspaper publications had adopted this method, this project aims to explore and analyze the usage of vocabularies that foster a sense of unification and their regional differences.
+            a closer inspection on whether the United States (U.S.) newspaper publications had adopted this method, 
+            this project aims to explore and analyze the usage of vocabularies that foster a sense of unification and their regional differences, specifically the population engaged in public administration.
             The project hopes to determine methods used by the U.S. newspaper for intra-national connection throughout the early stages of Cold War.
         </p>
         <h2>General</h2>
@@ -147,6 +148,7 @@ title: Main
             <li><span style="color: #2674BA">South</span></li>
             <li><span style="color: #448C2A">West</span></li>
         </ul>
+        <p>Initial analysis on the occupational distribution of regions should be done, in order to relate the relevant data with linguistic data.</p>
         <p>All of the charts in the grid can be zoomed when clicked.</p>
         <h3>1940s</h3>
         <div class="grid-container">
@@ -163,7 +165,9 @@ title: Main
                 <img src="images/pie_charts/Occupation Distribution of the West in 1940s.png" alt="Pie Chart 4">
             </div>
         </div>
-        <p></p>
+        <p>The figures above show the occupational distribution of four regions, during 1940s. It can be seen that the distributions are distinct; Majority of people in the North Central and Northeast are engaged in
+            Manufacturing, while people in the South were rather engaged in agriculture, while the West is more inclined towards wholesale and retail.
+        </p>
         <h3>1950s</h3>
         <div class="grid-container">
             <div class="grid-item">
@@ -179,6 +183,10 @@ title: Main
                 <img src="images/pie_charts/Occupation Distribution of the West in 1950s.png" alt="Pie Chart 4">
             </div>
         </div>
+        <p>The figures above show the occupational distribution of four regions during 1950s. The percentage of people engaged in manufacturing have been increased for the North Central and the Northeast, while more people are engaged in
+            wholesale and retail in the South and the West. As 3 out of 4 regions (except the West) are having more percentage of people engaging in transportation-related occupations, the increase in wholesale and retail, and manufacturing
+            could be due to the fact that more people have chosen to engage in jobs that are away from their location of living with the benefits of public transportation.
+        </p>
         <h3>1960s</h3>
         <div class="grid-container">
             <div class="grid-item">
@@ -194,6 +202,9 @@ title: Main
                 <img src="images/pie_charts/Occupation Distribution of the West in 1960s.png" alt="Pie Chart 4">
             </div>
         </div>
+        <p>The figures above show the occpational distribution of four regions during 1960s. For all regions, wholesale and retail related services as well as manufacturing related services have became the major occupation.
+            It is interesting to see how the professional related jobs have also increased for all four reasons significantly, which could be due to the arms race between U.S. and Soviet Union during the Cold War.
+        </p>
         <h3>Government (Public Administration) Occupation</h3>
         <div class="grid-container">
             <div class="grid-item">
@@ -209,6 +220,7 @@ title: Main
                 <img src="images/public_administration/Public Administration in the West States.png" alt="Pie Chart 4">
             </div>
         </div>
+        <p>It should be noted that </p>
         <h2>Analysis by Regions</h2>
         <p>For the analysis of the regions, the optical character recognition (OCR, automated text transfer) generated U.S. newspapers published between 1940 and 1960, divided by the regions, were collected.
             The extracted vocabularies from the data were then filtered using Named Entity Recognition - which is extracting 'important' terms from linguistic strings - feature of SpaCy, an open-source Natural Language Processing tool. 
@@ -231,7 +243,9 @@ title: Main
             relative frequency (larger nodes indicate higher frequency). The edges signify that there is certain correlation
             between the vocabularies, which was calculated by the cosine similarity between word vectors. The word vectors, which is the 
             representation of the words in a high-dimensional domain, was created using Google news corpus. High cosine similarity indicates a significant
-            semantic similarity between the words.
+            semantic similarity between the words. The colors of the nodes indicate the emotion conveyed in the vocabulary, which was
+            identified using sentiment analysis - a Natural Language Processing technique - with a corpus of 124M Twitter data from 2018 to 2021. Blue indicates positive sentiment, red indicates negative sentiment,
+            and gray indicates neutral sentiment.
         </p>
         <section class="section1">
         <h3 style="color: #C93535">North Central</h3>
