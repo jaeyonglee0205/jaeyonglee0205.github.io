@@ -208,6 +208,7 @@ title: Home
     
             WordCloud(document.getElementById('word-cloud'), { list: wordArray });
         </script>
+        <section-northcentral style="background-color: #FFD0C5;">
         <h3 style="color: #C93535">North Central</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_North Central.jpg" alt="pfnc">
@@ -221,25 +222,32 @@ title: Home
                 <img src="images/0/graph_60_pos_neg.jpg">
             </div>
         </div>
+        </section-northcentral>
+        <section-northeast style="background-color: #FFF3B7;">
         <h3 style="color: #E8B500">Northeast</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_Northeast.jpg" alt="pfne">
         </div>
+        </section-northeast>
+        <section-south style="background-color: #B7E2FF;">
         <h3 style="color: #2674BA">South</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_South.jpg" alt="pfs">
         </div>
+        </section-south>
+        <section-west style="background-color: #B0FFB9;">
         <h3 style="color:#448C2A">West</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_West.jpg" alt="pfw">
         </div>
+        </section-west>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
     </footer>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            var images = document.querySelectorAll('.image-container img');
+            var images = document.querySelectorAll('.grid-item img');
             images.forEach(function(image) {
                 image.addEventListener('click', function() {
                     this.classList.toggle('zoomed');
