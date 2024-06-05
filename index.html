@@ -44,6 +44,9 @@ title: Home
             height: auto;
             display: inline-block;
         }
+        .image-container img.zoomed {
+            transform: scale(1.5); /* Scale up the image */
+        }
         .chart-container {
             text-align: center; 
             margin: 20px 0;
@@ -234,5 +237,15 @@ title: Home
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
     </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var images = document.querySelectorAll('.image-container img');
+            images.forEach(function(image) {
+                image.addEventListener('click', function() {
+                    this.classList.toggle('zoomed');
+                });
+            });
+        });
+    </script>
 </body>
 </html>
