@@ -44,6 +44,15 @@ title: Home
             height: auto;
             display: inline-block;
         }
+        .chart-container {
+            text-align: center; 
+            margin: 20px 0;
+        }
+        .chart-container img {
+            max-width: 80%;
+            height: auto;
+            display: inline-block;
+        }
         .abstract {
         border: 2px solid #808080;
         padding: 10px;
@@ -180,7 +189,7 @@ title: Home
         <h2>Analysis by Regions</h2>
         <p>For the analysis of the regions, the optical character recognition (OCR, automated text transfer) generated U.S. newspapers published between 1940 and 1960, divided by the regions, were collected.
             The extracted vocabularies from the data were then filtered using Named Entity Recognition - which is extracting 'important' terms from linguistic strings - feature of SpaCy, an open-source Natural Language Processing tool. 
-            For identifying the vocabularies that were used to foster a sense of unification, thesauruses as well as manual thematic analysis on the refined data were extensively used. These were the identified vocabularies:
+            For identifying the vocabularies that were used to foster a sense of unification, thesauruses as well as manual thematic analysis on the refined data were extensively used. These were the identified vocabularies (in random sizes):
         </p>
         <div id="word-cloud"></div>
     
@@ -197,9 +206,36 @@ title: Home
             WordCloud(document.getElementById('word-cloud'), { list: wordArray });
         </script>
         <h3 style="color: #C93535">North Central</h3>
+        <div class="image-container">
+            <img src="images/percentage_frequency/percentage_frequency_North Central.jpg" alt="pfnc">
+        </div>
+        <p>Let's look at</p>
+        <div class="grid-container">
+            <div class="grid-item">
+                <img src="images/0/graph_40_pos_neg.jpg">
+            </div>
+            <div class="grid-item">
+                <img src="images/0/graph_60_pos_neg.jpg">
+            </div>
+            <div class="grid-item">
+                <img src="images/pie_charts/Occupation Distribution of the South in 1950s.png" alt="Pie Chart 3">
+            </div>
+            <div class="grid-item">
+                <img src="images/pie_charts/Occupation Distribution of the West in 1950s.png" alt="Pie Chart 4">
+            </div>
+        </div>
         <h3 style="color: #E8B500">Northeast</h3>
+        <div class="image-container">
+            <img src="images/percentage_frequency/percentage_frequency_Northeast.jpg" alt="pfne">
+        </div>
         <h3 style="color: #2674BA">South</h3>
+        <div class="image-container">
+            <img src="images/percentage_frequency/percentage_frequency_South.jpg" alt="pfs">
+        </div>
         <h3 style="color:#448C2A">West</h3>
+        <div class="image-container">
+            <img src="images/percentage_frequency/percentage_frequency_West.jpg" alt="pfw">
+        </div>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
