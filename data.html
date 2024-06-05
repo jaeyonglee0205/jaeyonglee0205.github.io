@@ -38,7 +38,7 @@ title: Data
 <body>
     <header>
         <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
+        <!--<p>{{ site.description }}</p>-->
     </header>
     <nav>
         <a href="index.html" class="nav-button">Main</a>
@@ -47,8 +47,39 @@ title: Data
         <a href="reference.html" class="nav-button">Reference</a>
     </nav>
     <main>
-        <h1>Data Page</h1>
-        <p>This is the data page.</p>
+        <h1>Summary of the Data Used for the Project</h1>
+        <p>All of the newspaper data were collected from Chronicling America - Library of Congress. <br>
+            Below is a summary of the used newspapers, in the format <em>LCCN code, Title, (Place of publication), Dates of publication</em>
+        </p>
+        <p>North Central:</p>
+        <ul>
+            <li>sn83016804 St. Paul recorder. [volume] : (St. Paul, Minn.) 1934-2000</li>
+            <li>sn90060918 Twin Cities Ordinance news. [volume] : ([New Brighton, Minn.]) 1942-19??</li>
+        </ul>
+        <p>Northeast:</p>
+        <ul>
+            <li>sn84022396 Putnam patriot. [volume] : (Putnam, Conn.) 1872-1962</li>
+            <li>sn92051419 Windham County observer. : (Putnam, Conn.) 1900-1962</li>
+            <li>sn98068351 The Tribune. [volume] : (Roanoke, Va.) 1951-19??</li>
+        </ul>
+        <p>South:</p>
+        <ul>
+            <li>sn87065528 The Chronicle-star combined with the Moss Point advertiser. : (Pascagoula, Miss.) 1941-1949</li>
+            <li>sn94060041 Peninsula enterprise. [volume] : (Accomac, Va.) 1881-1965</li>
+        </ul>
+        <p>West:</p>
+        <ul>
+            <li>sn83045499 The Daily Alaska empire. [volume] : (Juneau, Alaska) 1926-1964</li>
+            <li>sn84006943 The frontiersman. [volume] : (Palmer, Alaska) 1952-2005</li>
+            <li>sn84020665 Valley frontiersman. [volume] : (Palmer, Alaska) 1947-1952</li>
+            <li>sn89070012 Brewery Gulch gazette. [volume] : (Bisbee, Ariz.) 1931-1987</li>
+            <li>sn94050650 Migrant's mike. [volume] : (Somerton, Ariz.) 1941-194?</li>
+            <li>sn94050651 News. [volume] : (Eleven Mile Corner, Ariz.) 1940-1941</li>
+            <li>sn94050653 Eleven Mile news. [volume] : (Casa Grande, Ariz.) 1941-194?</li>
+            <li>sn94050657 Westside enterprise. [volume] : (Goodyear, Ariz.) 1955-1965</li>
+            <li>sn95060002 Ghost town gazette. [volume] : (Chitina, Alaska) 19??-19??</li>
+        </ul>
+        <p>Refer to https://chroniclingamerica.loc.gov/lccn/[LCCN CODE]/ for further data.</p>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
