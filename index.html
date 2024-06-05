@@ -53,12 +53,25 @@ title: Home
         .abstract h2 {
             margin-top: 0;
         }
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            padding: 20px;
+        }
+        .grid-item {
+            text-align: center;
+        }
+        .grid-item img {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
+        <!--<p>{{ site.description }}</p>-->
     </header>
     <nav>
         <a href="index.html" class="nav-button">Main</a>
@@ -76,7 +89,7 @@ title: Home
                 This project will conclude with answers to above questions, as well as a compare-and-contrast to the answers provided by a generative AI.
             </p>
         </div>
-        <p>The Cold War, starting from 1947 and ending in 1991, is often regarded as the most pivotal moment of shaping the modern society. In the time of such heightened tension, unification among citizens is a critical factor,
+        <p style="text-indent: 25px">The Cold War, starting from 1947 and ending in 1991, is often regarded as the most pivotal moment of shaping the modern society. In the time of such heightened tension, unification among citizens is a critical factor,
             which is often fostered through media outlets such as newspapers. Particularly, the linguistic choices used in these newspapers was the major device for conveying messages, varying
             according to the demographic details of the region of publication. In want of 
             a closer inspection on whether the United States (U.S.) newspaper publications had adopted this method, this project aims to explore and analyze the usage of vocabularies that foster a sense of unification and their regional differences.
@@ -93,6 +106,21 @@ title: Home
             <li><span style="color: #2674BA">South</span></li>
             <li><span style="color: #448C2A">West</span></li>
         </ul>
+        <h3>1940s</h3>
+        <div class="grid-container">
+            <div class="grid-item">
+                <img src="images/pie_charts/Occupation Distribution of the North Central in 1940s.png" alt="Pie Chart 1">
+            </div>
+            <div class="grid-item">
+                <img src="images/pie_charts/Occupation Distribution of the Northeast in 1940s.png" alt="Pie Chart 2">
+            </div>
+            <div class="grid-item">
+                <img src="images/pie_charts/Occupation Distribution of the South in 1940s.png" alt="Pie Chart 3">
+            </div>
+            <div class="grid-item">
+                <img src="images/pie_charts/Occupation Distribution of the West in 1940s.png" alt="Pie Chart 4">
+            </div>
+        </div>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
