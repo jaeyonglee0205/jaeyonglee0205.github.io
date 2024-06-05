@@ -33,6 +33,19 @@ title: Code
         .nav-button:hover {
             background-color: #0056b3;
         }
+        .notebook-link {
+            display: block;
+            margin: 20px 0;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+        }
+        .notebook-link:hover {
+            background-color: #0056b3;
+        }
     </style>
 </head>
 <body>
@@ -46,9 +59,10 @@ title: Code
         <a href="code.html" class="nav-button">Code</a>
         <a href="reference.html" class="nav-button">Reference</a>
     </nav>
-    <main>
-        <h1>Code Page</h1>
-        <p>This is the code page.</p>
+    <main class="content">
+        <h1>Jupyter Notebooks</h1>
+        <p>Click the link below to view the Jupyter Notebook:</p>
+        <a href="extract_words.py.ipynb" class="notebook-link">View Notebook</a>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
