@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Main
 ---
 
 <!DOCTYPE html>
@@ -88,11 +88,27 @@ title: Home
             height: 500px;
             border: 1px solid #ccc;
         }
+        section {
+            padding: 20px;
+            margin: 20px 0;
+        }
+        .section1 {
+            background-color: #FFD0C5; 
+        }
+        .section2 {
+            background-color: #FFF3B7;
+        }
+        .section3 {
+            background-color: #B7E2FF;
+        }
+        .section4 {
+            background-color: #B0FFB9;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
+        <h1>"HSS207 Final Unessay"</h1>
         <!--<p>{{ site.description }}</p>-->
     </header>
     <nav>
@@ -208,7 +224,7 @@ title: Home
     
             WordCloud(document.getElementById('word-cloud'), { list: wordArray });
         </script>
-        <section-northcentral style="background-color: #FFD0C5;">
+        <section class="section1">
         <h3 style="color: #C93535">North Central</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_North Central.jpg" alt="pfnc">
@@ -222,25 +238,25 @@ title: Home
                 <img src="images/0/graph_60_pos_neg.jpg">
             </div>
         </div>
-        </section-northcentral>
-        <section-northeast style="background-color: #FFF3B7;">
+        </section>
+        <section class="section2">
         <h3 style="color: #E8B500">Northeast</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_Northeast.jpg" alt="pfne">
         </div>
-        </section-northeast>
-        <section-south style="background-color: #B7E2FF;">
+        </section>
+        <section class="section3">
         <h3 style="color: #2674BA">South</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_South.jpg" alt="pfs">
         </div>
-        </section-south>
-        <section-west style="background-color: #B0FFB9;">
+        </section>
+        <section class="section4">
         <h3 style="color:#448C2A">West</h3>
         <div class="image-container">
             <img src="images/percentage_frequency/percentage_frequency_West.jpg" alt="pfw">
         </div>
-        </section-west>
+        </section>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
