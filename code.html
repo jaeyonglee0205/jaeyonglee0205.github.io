@@ -29,6 +29,7 @@ title: Code
             color: white;
             text-decoration: none;
             border-radius: 5px;
+            transition: background-color 0.3s;
         }
         .nav-button:hover {
             background-color: #0056b3;
@@ -42,6 +43,7 @@ title: Code
             text-decoration: none;
             border-radius: 5px;
             text-align: center;
+            transition: background-color 0.3s;
         }
         .notebook-link:hover {
             background-color: #0056b3;
@@ -50,8 +52,7 @@ title: Code
 </head>
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
+        <h1>How did U.S. newspaper publications across different regions foster a sense of unity during the early stages of the Cold War from 1940 to 1960?</h1>
     </header>
     <nav>
         <a href="index.html" class="nav-button">Main</a>
@@ -61,8 +62,19 @@ title: Code
     </nav>
     <main class="content">
         <h1>Jupyter Notebooks</h1>
-        <p>Click the link below to view the Jupyter Notebook:</p>
-        <a href="https://github.com/jaeyonglee0205/jaeyonglee0205.github.io/blob/main/process_words.py.ipynb" class="notebook-link">View Notebook</a>
+        <p>Here, you can access the actual codes used for the collection, refinement, and analysis of data.</p>
+        <h2>Extracting Words</h2>
+        <p>This was the code used for extracting the raw corpus of vocabularies from the newspaper data.</p>
+        <a href="https://github.com/jaeyonglee0205/jaeyonglee0205.github.io/blob/main/notebooks/extract_words.ipynb" class="notebook-link">View Notebook</a>
+        <h2>Processing Words</h2>
+        <p>This was the code used for calculating the frequency and analyzing the sentimental feautures of vocabularies from the raw data.</p>
+        <a href="https://github.com/jaeyonglee0205/jaeyonglee0205.github.io/blob/main/notebooks/process_words.ipynb" class="notebook-link">View Notebook</a>
+        <h2>Creating Word Graphs</h2>
+        <p>This was the code used for creating the word graphs based on the frequency and results from sentiment analysis.</p>
+        <a href="https://github.com/jaeyonglee0205/jaeyonglee0205.github.io/blob/main/notebooks/word_graphs.ipynb" class="notebook-link">View Notebook</a>
+        <h2>Analyzing Unification</h2>
+        <p>This was the code used for analyzing the sense of unification portrayed in the newspaper.</p>
+        <a href="https://github.com/jaeyonglee0205/jaeyonglee0205.github.io/blob/main/notebooks/unify.ipynb" class="notebook-link">View Notebook</a>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>

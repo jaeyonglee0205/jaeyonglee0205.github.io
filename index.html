@@ -45,7 +45,7 @@ title: Main
             display: inline-block;
         }
         .image-container img.zoomed {
-            transform: scale(1.5);
+            transform: scale(1.7);
         }
         .chart-container {
             text-align: center; 
@@ -111,7 +111,7 @@ title: Main
 </head>
 <body>
     <header>
-        <h1>"HSS207 Final Unessay"</h1>
+        <h1>How did U.S. newspaper publications across different regions foster a sense of unity during the early stages of the Cold War from 1940 to 1960?</h1>
         <!--<p>{{ site.description }}</p>-->
     </header>
     <nav>
@@ -121,7 +121,7 @@ title: Main
         <a href="reference.html" class="nav-button">Reference</a>
     </nav>
     <main>
-        <h1>How did U.S. newspaper publications across different regions foster a sense of unity during the early stages of the Cold War from 1940 to 1960?</h1>
+        <h1 style="text-align: center;">Main Content</h1>
         <div class="abstract">
             <h2>Abstract</h2>
             <p>This project aims to explore the usage of vocabularies that foster a sense of unification throughout the early stages of the Cold War.
@@ -147,6 +147,7 @@ title: Main
             <li><span style="color: #2674BA">South</span></li>
             <li><span style="color: #448C2A">West</span></li>
         </ul>
+        <p>All of the charts in the grid can be zoomed when clicked.</p>
         <h3>1940s</h3>
         <div class="grid-container">
             <div class="grid-item">
@@ -214,7 +215,6 @@ title: Main
             For identifying the vocabularies that were used to foster a sense of unification, thesauruses as well as manual thematic analysis on the refined data were extensively used. These were the identified vocabularies (in random sizes):
         </p>
         <div id="word-cloud"></div>
-    
         <script>
             const words = [
                 'family', 'home', 'america', 'country', 'nation', 'unity', 'allies', 'alliance',
@@ -227,6 +227,12 @@ title: Main
     
             WordCloud(document.getElementById('word-cloud'), { list: wordArray });
         </script>
+        <p>The refined vocabularies were transformed into word graphs, where each node indicates a vocabulary and its size denotes its 
+            relative frequency (larger nodes indicate higher frequency). The edges signify that there is certain correlation
+            between the vocabularies, which was calculated by the cosine similarity between word vectors. The word vectors, which is the 
+            representation of the words in a high-dimensional domain, was created using Google news corpus. High cosine similarity indicates a significant
+            semantic similarity between the words.
+        </p>
         <section class="section1">
         <h3 style="color: #C93535">North Central</h3>
         <div class="image-container">
