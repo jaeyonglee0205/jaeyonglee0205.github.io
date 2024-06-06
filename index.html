@@ -511,36 +511,71 @@ title: Main
         <h2 style="font-weight: bold; color: black;">Compare-and-Contrast to Generative AI</h2>
         <p style="font-weight: bold;">Below is the answer from ChatGPT 4o, when asked with the main question of this project.</p>
         <p>During the early stages of the Cold War (1940-1960), U.S. newspaper publications played a significant role in fostering a sense of unity across different regions. This period saw a concerted effort to align public sentiment and create a cohesive national identity in the face of perceived external threats from the Soviet Union. Here are some key ways in which newspapers accomplished this, especially in relation to the regional population engaged in public administration:
-
-            <span style="font-weight: bold">1. Promotion of National Security Narrative</span>
+            <br>
+            <span style="font-weight: bold">1. Promotion of National Security Narrative</span><br>
             Newspapers widely disseminated the idea that national security was paramount. This narrative emphasized the threats posed by communism and the Soviet Union, promoting policies and actions that were deemed necessary to protect the nation. Public administrators were often depicted as key players in the defense of American values and interests, reinforcing their role in the collective effort.
-            
-            <span style="font-weight: bold">2. Coverage of National Policies and Programs</span>
+            <br>
+            <span style="font-weight: bold">2. Coverage of National Policies and Programs</span><br>
             Newspapers provided extensive coverage of national policies and programs related to the Cold War, such as the Marshall Plan, NATO, and domestic anti-communist measures. By highlighting these initiatives, newspapers fostered a sense of collective participation and support across regions. This coverage often included the roles and contributions of local public administrators, showcasing their importance in the national framework.
-            
-            <span style="font-weight: bold">3. Editorials and Opinion Pieces</span>
+            <br>
+            <span style="font-weight: bold">3. Editorials and Opinion Pieces</span><br>
             Editorials and opinion pieces frequently stressed the importance of unity and patriotic duty. They called for citizens and public officials alike to support the government's efforts in combating the communist threat. These writings aimed to unify readers by appealing to shared values and national pride.
-            
-            <span style="font-weight: bold">4. Localizing National Issues</span>
+            <br>
+            <span style="font-weight: bold">4. Localizing National Issues</span><br>
             Newspapers localized national issues by reporting on how Cold War policies affected local communities and public administration. This helped readers relate national events to their own lives and understand the local impact of global events. For instance, the establishment of military bases or defense industries in various regions was highlighted, demonstrating the interconnectedness of local and national interests.
-            
-            <span style="font-weight: bold">5. Highlighting Regional Contributions</span>
+            <br>
+            <span style="font-weight: bold">5. Highlighting Regional Contributions</span><br>
             Articles often celebrated regional contributions to the national defense effort, such as local industries producing military supplies or regional universities conducting important research. This recognition fostered a sense of pride and unity among readers, showing that every part of the country played a vital role in the national endeavor.
-            
-            <span style="font-weight: bold">6. Communicating Government Directives</span>
+            <br>
+            <span style="font-weight: bold">6. Communicating Government Directives</span><br>
             During the Cold War, newspapers served as a conduit for government communications, including directives and messages from public officials. By regularly featuring statements and policies from national and regional leaders, newspapers helped align public opinion with governmental objectives. Public administrators were often the face of these communications, reinforcing their connection to the broader national mission.
-            
-            <span style="font-weight: bold">7. Campaigns Against Subversion</span>
+            <br>
+            <span style="font-weight: bold">7. Campaigns Against Subversion</span><br>
             Newspapers played a key role in anti-communist campaigns, often in collaboration with public officials. They reported on investigations, trials, and the activities of the House Un-American Activities Committee (HUAC). This coverage underscored the vigilance needed to protect the nation, portraying public administrators as defenders of American democracy against internal subversion.
-            
-            <span style="font-weight: bold">8. Patriotic Symbolism and Messaging</span>
+            <br>
+            <span style="font-weight: bold">8. Patriotic Symbolism and Messaging</span><br>
             Patriotic symbols and messaging were ubiquitous in newspapers, with frequent references to American values, freedom, and democracy. These elements were used to foster a shared national identity and rally support for Cold War policies. Public administrators were often featured in contexts that emphasized their dedication to these ideals.
-            
-            <span style="font-weight: bold">Conclusion</span>
+            <br>
+            <span style="font-weight: bold">Conclusion</span><br>
             Through these various strategies, U.S. newspaper publications effectively fostered a sense of unity during the early stages of the Cold War. By aligning regional populations with national narratives and highlighting the roles of public administrators, newspapers helped create a cohesive front against the perceived communist threat. This unity was essential for maintaining public support for government policies and ensuring a coordinated national response to Cold War challenges.</p>
         <h2 style="font-weight: bold; color: black;">Limitations and Future Works</h2>
-        <p>Data Bias (small size, no context, too focused on specific states), errors within sentiment analysis</p>
-        <p>Similarity between regions (occupation), relationship to religion, relationship between occupations </p>
+        <h3 style="font-weight: bold; color: black;">Limitations:</h3>
+        <ul>
+            <li>Small sample bias due to the relatively small dataset might have made the conclusions in this project to be highly
+                vulnerable to the outliers or irrelevant data. This would have made the statistical analysis, such as Pearson Correlation, to be 
+                rather irrelevant.
+            </li>
+            <li>
+                The vocabularies were analyzed without context, that is, the function of each vocabularies were not identified, due to difficulties in 
+                acquiring the suitable data for such analysis, which would limit the justification of the conclusions. For example, the words used in advertisements, such as "big" or "good" might
+                have blurred the core correlation between datasets.
+            </li>
+            <li>
+                Bias from the scope of data might have affected the conclusion. The newspapers were collected by regions, though the data provided by 
+                Library of Congress seemed to be focused on specific states, rather than the U.S. Census regions, limiting the generalization of the conclusion.
+            </li>
+            <li>
+                Errors within sentiment analysis do exist, as the corpus was composed of Tweets. The term 'children' being identified as a negative word 
+                might have resulted from tweets regarding crimes on children, which is often rapidly shared on social network services.
+            </li>
+        </ul>
+        <h3 style="font-weight: bold; color: black;">Future works:</h3>
+        <ul>
+            <li>
+                There seems to be a significant correlation between regions on their shared beliefs. Upon analyzing the vocabularies used in newspapers,
+                similar words appeared. Diversifying the regions and studying the linguistic similarity between them might have been intersting.
+            </li>
+            <li>
+                Similarly, there seems to be a significant relationship between the U.S. citizens and religion, 
+                as the term "church" was the most frequently used term
+                overall, across all regions. Conducting a study on effect of religion on U.S. citizens by using newspapers might have been interesting.
+            </li>
+            <li>
+                There seems to be some kind of relationship between the regions and their occupations. 
+                Regions close to each other showed similar traits in occupation
+                distribution, especially the North Central and Northeast. Conducting a study on it might have been interesting.
+            </li>
+        </ul>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
