@@ -341,7 +341,7 @@ title: Main
             As indicated by the first bar graph, no correlation has been detected, which is evident from the high P-values.
         </p>
         <p style="font-weight: bold;">
-            Thus, we can conclude that for North Central region, no significant relationship between the population of public administration and usage of vocabularies that foster a sense
+            Thus, we can conclude that for the North Central region, no significant relationship between the population of public administration and usage of vocabularies that foster a sense
             of unification have been found. 
         </p>
         </section>
@@ -402,7 +402,7 @@ title: Main
                 <img src="images/actual_uni_words/South_60.jpg" alt="Image 2">
             </div>
         </div>
-        <p>Again, the figure above shows the percentage of frequency of I.D. of the South region. It is clearly distinctive from the North Central 
+        <p>The figure above shows the percentage of frequency of I.D. of the South region. It is clearly distinctive from the North Central 
             and the Northeast, as the percentage of I.D. clearly decreased from 4.3% to 2.9%, from 1940s to 1960s. Below is the 
             top-30 polarized vocabularies extracted for the South newspapers of 1940s and 1960s, from left to right.
         </p>
@@ -414,6 +414,11 @@ title: Main
                 <img src="images/2/graph_60_pos_neg.jpg">
             </div>
         </div>
+        <p>Again, similar to other regions, it can be identified that the South newspapers made extensive use of the vocabs "home" and
+            "church". Interstingly, compared to two regions above, the South newspapers made more use of the word "family", which could mean that there was
+            stronger emphasis on the sense of inheritance (aligned with the term "business") and family values. The red colored nodes for the 
+            words "methodist" and "children" seems to be errors within the NLP tool, which is to be discussed in detail in a later section.
+        </p>
         <table>
             <tr>
                 <th>Pearson Coefficient</th>
@@ -428,6 +433,15 @@ title: Main
                 <td>0.0</td>
             </tr>
         </table>
+        <p>The table above shows the Pearson Correlation Coefficient, P-value for it, Spearman Correlation Coefficient, and P-value for it.
+            The Pearson Correlation Coefficient turned out to be statistically insignificant, which is evident from the high P-value. However, the
+            concrete value of 0.0 for the Spearman P-value indicates a statistically significant correlation, and the value of -1.0 indicates that
+            there is a strong negative monotonic relationship between the population of public adminstration and I.D. frequency in the South.
+        </p>
+        <p style="font-weight: bold;">
+            We can conclude that for the South region, the intuitive hypothesis suggested in the introduction is rejected.
+            The frequency of I.D. decreased, as the population of public administration increased.
+        </p>
         </section>
 
         <section class="section4">
@@ -451,7 +465,8 @@ title: Main
 
         <h2 style="font-weight: bold; color: black;">Conclusion</h2>
         <h2 style="font-weight: bold; color: black;">Compare-and-Contrast to Generative AI</h2>
-        <h2 style="font-weight: bold; color: black;">Limitations</h2>
+        <h2 style="font-weight: bold; color: black;">Limitations and Future Works</h2>
+        <p>Data Bias (small size, no context, too focused on specific states), errors within sentiment analysis</p>
     </main>
     <footer>
         <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
