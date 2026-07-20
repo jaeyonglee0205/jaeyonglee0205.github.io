@@ -9,6 +9,40 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+/*****************/
+/* THEME (light + dark, driven by OS preference) */
+/*****************/
+
+:root {
+  --bg: #ffffff;
+  --bg-alt: #f6f7f9;
+  --text: #1a1c20;
+  --text-secondary: #5b6270;
+  --border: #e7e9ee;
+  --accent: #3454d1;
+  --accent-hover: #23409c;
+  --shadow: rgba(20, 24, 32, 0.06);
+  --code-bg: #f4f5f8;
+  --code-border: #e5e7ec;
+  --selection-bg: #d9e2ff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14161a;
+    --bg-alt: #1b1e24;
+    --text: #eceef1;
+    --text-secondary: #9aa1ac;
+    --border: #2a2e37;
+    --accent: #8ba4ff;
+    --accent-hover: #aebeff;
+    --shadow: rgba(0, 0, 0, 0.35);
+    --code-bg: #1c1f26;
+    --code-border: #2a2e37;
+    --selection-bg: #33406b;
+  }
+}
+
 /**************/
 /* BASE RULES */
 /**************/
@@ -18,24 +52,28 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  background: var(--bg);
+  font: 18px/1.6 $sans;
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: $maxWidth;
+  padding: 0 20px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
+  font-family: $sansHeading;
+  color: var(--text);
+  font-weight: 700;
+  letter-spacing: -0.01em;
 
-  line-height: 1.7;
+  line-height: 1.35;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -45,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 32px;
   a {
     color: inherit;
   }
@@ -61,7 +99,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: var(--text-secondary);
 }
 
 p {
@@ -69,11 +107,13 @@ p {
 }
 
 a {
-  color: $blue;
+  color: var(--accent);
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  transition: color 0.15s ease;
   &:hover, &:active {
-    color: $blue;
+    color: var(--accent-hover);
+    text-decoration: underline;
   }
 }
 
@@ -108,6 +148,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  border-radius: $radius;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -117,17 +158,33 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: var(--text-secondary);
+  font-size: 15px;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: var(--text);
+  background: var(--selection-bg);
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: var(--text);
+  background: var(--selection-bg);
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border);
+  margin: 2em 0;
+}
+
+blockquote {
+  margin: 1.8em 0.8em;
+  border-left: 3px solid var(--accent);
+  padding: 0.1em 1.2em;
+  color: var(--text-secondary);
+  font-size: 20px;
+  font-style: italic;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -151,12 +208,12 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  padding: 32px 0;
+  border-bottom: 1px solid var(--border);
 
   @include mobile {
     text-align: center;
@@ -165,9 +222,9 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 64px;
+  height: 64px;
+  margin-right: 18px;
 
   @include mobile {
     float: none;
@@ -176,7 +233,8 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
+    box-shadow: 0 2px 10px var(--shadow);
   }
 }
 
@@ -192,47 +250,51 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: var(--text);
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-family: $sansHeading;
+  font-weight: 700;
+  font-size: 26px;
+  letter-spacing: -0.01em;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
+  margin: 4px 0 0 0;
+  color: var(--text-secondary);
   font-size: 16px;
 
   @include mobile {
-    margin: 3px 0;
+    margin: 6px 0;
   }
 }
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  margin-top: 18px;
+  font-family: $sansHeading;
+  font-size: 16px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 12px;
     display: block;
-    font-size: 16px;
+    font-size: 15px;
   }
 
   a {
-    margin-left: 20px;
-    color: $darkGray;
+    margin-left: 22px;
+    color: var(--text-secondary);
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+
+    &:hover {
+      color: var(--accent);
+      text-decoration: none;
+    }
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
     }
   }
 }
@@ -242,8 +304,17 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding: 1.6em 0;
+  border-bottom: 1px solid var(--border);
+
+  h1 {
+    margin-top: 0;
+    font-size: 26px;
+  }
+}
+
+.posts > .post:first-child {
+  padding-top: 0;
 }
 
 .posts > .post:last-child {
@@ -254,33 +325,41 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
   }
 
   .comments {
-    margin-top: 10px;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
   }
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
   }
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  margin-top: 60px;
+  border-top: 1px solid var(--border);
+  background-color: var(--bg-alt);
 }
 
 footer {
-  padding: 20px 0;
+  padding: 28px 0;
   text-align: center;
+
+  .svg-icon {
+    opacity: 0.75;
+    transition: opacity 0.15s ease, transform 0.15s ease;
+
+    &:hover {
+      opacity: 1;
+      transform: translateY(-2px);
+    }
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

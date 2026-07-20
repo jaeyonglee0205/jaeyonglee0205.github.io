@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Jaeyong Lee. This is where I write about what I'm building and learning.
+
+<!-- TODO: replace this paragraph with your own bio -->
 
 ### More Information
 
@@ -12,4 +14,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
+<!-- TODO: add your preferred contact email/link -->
 [email@domain.com](mailto:email@domain.com)
