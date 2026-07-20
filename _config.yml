@@ -39,9 +39,10 @@ footer-links:
 # values giscus.app generates for you.
 giscus:
   repo: jaeyonglee0205/jaeyonglee0205.github.io
-  repo_id: # e.g. R_kgDOJ...
+  repo_id: R_kgDOTdnbKA
   category: Announcements
-  category_id: # e.g. DIC_kwDOJ...
+  category_id: DIC_kwDOTdnbKM4DBjSe
+
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
