@@ -4,18 +4,18 @@ Personal blog, built with [Jekyll](https://jekyllrb.com) (based on [Jekyll Now](
 
 ## Writing a post
 
-Add a Markdown file to `_posts/` named `YYYY-MM-DD-title.md`:
+A post is a Markdown file in `_posts/` named `YYYY-MM-DD-title.md`. [`_drafts/template.md`](_drafts/template.md) has the starting front matter to copy.
 
-```markdown
----
-layout: post
-title: My post title
----
+**From the browser, no local setup needed:**
 
-Post content goes here.
-```
+1. Go to this repo on github.com and press `.` (period) — that opens a full VS Code-style editor in the browser (github.dev).
+2. In the `_posts/` folder, create a new file named `YYYY-MM-DD-your-title.md` (today's date, lowercase-hyphenated title).
+3. Paste in the contents of [`_drafts/template.md`](_drafts/template.md), fill in the title and body.
+4. Commit directly to `master` (or open a PR if you want to review the diff first).
 
-Push to `master` and GitHub Pages rebuilds the site automatically (usually within a minute or two).
+Alternatively, the **GitHub mobile app** lets you create/edit files the same way from your phone.
+
+Either way, GitHub Pages rebuilds the site automatically after the commit lands on `master` (usually within a minute or two).
 
 ## Enabling comments (giscus)
 
