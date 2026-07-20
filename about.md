@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Jaeyong Lee. This is where I write about what I'm building and learning.
+Hi, I'm Jae Yong Lee. This is where I write about what I'm building and learning.
 
 <!-- TODO: replace this paragraph with your own bio -->
 
