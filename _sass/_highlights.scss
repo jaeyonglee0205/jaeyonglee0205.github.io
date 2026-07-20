@@ -1,17 +1,24 @@
 
 .highlight {
-  background-color: #efefef;
-  padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
-  -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  box-shadow: 3px 3px rgba(0,0,0,0.1);
+  background-color: var(--code-bg);
+  border-radius: $radius;
+  padding: 14px 16px;
+  border: 1px solid var(--code-border);
   margin: 20px 0 20px 0;
-  overflow: scroll;
+  overflow: auto;
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+  font-family: $mono;
+  font-size: 15px;
+  background-color: var(--code-bg);
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+}
+
+.highlight code {
+  background-color: transparent;
+  padding: 0;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
